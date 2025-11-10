@@ -1,0 +1,16 @@
+{
+  "description": "DARK PRESIDENT #2",
+  "name": "DARK PRESIDENT #2",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/2.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/2.json",
+  "attributes": [
+    {
+      "trait_type": "Backdrop",
+      "value": "Ivory White"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Padlock"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "description": "DARK PRESIDENT #4",
+  "name": "DARK PRESIDENT #4",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/4.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/4.json",
+  "attributes": [
+    {
+      "trait_type": "Backdrop",
+      "value": "Cyberpunk"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Rhino Warrior"
+    }
+  ]
+}

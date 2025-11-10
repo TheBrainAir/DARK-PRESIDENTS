@@ -1,0 +1,16 @@
+{
+  "description": "DARK PRESIDENT #3",
+  "name": "DARK PRESIDENT #3",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/3.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/3.json",
+  "attributes": [
+    {
+      "trait_type": "Backdrop",
+      "value": "Indigo Dye"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Ink Pen"
+    }
+  ]
+}
