@@ -1,0 +1,16 @@
+{
+  "description": "DARK PRESIDENT #1",
+  "name": "DARK PRESIDENT #1",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/1.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/1.json",
+  "attributes": [
+    {
+      "trait_type": "Backdrop",
+      "value": "Fandango"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Bell Pepper"
+    }
+  ]
+}
