@@ -10,7 +10,11 @@
     },
     {
       "trait_type": "Symbol",
-      "value": "Padlock"
+      "value": "Spider Web"
+    },
+    {
+      "trait_type": "Character",
+      "value": "202"
     }
   ]
 }

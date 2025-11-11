@@ -6,11 +6,15 @@
   "attributes": [
     {
       "trait_type": "Backdrop",
-      "value": "Aquamarine"
+      "value": "Light Olive"
     },
     {
       "trait_type": "Symbol",
-      "value": "Bunny"
+      "value": "Bell Pepper"
+    },
+    {
+      "trait_type": "Character",
+      "value": "156"
     }
   ]
 }

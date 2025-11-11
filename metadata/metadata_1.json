@@ -6,11 +6,15 @@
   "attributes": [
     {
       "trait_type": "Backdrop",
-      "value": "Fandango"
+      "value": "Sapphire"
     },
     {
       "trait_type": "Symbol",
-      "value": "Bell Pepper"
+      "value": "Tie"
+    },
+    {
+      "trait_type": "Character",
+      "value": "184"
     }
   ]
 }

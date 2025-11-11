@@ -6,11 +6,15 @@
   "attributes": [
     {
       "trait_type": "Backdrop",
-      "value": "Cyberpunk"
+      "value": "Grape"
     },
     {
       "trait_type": "Symbol",
-      "value": "Rhino Warrior"
+      "value": "Chili"
+    },
+    {
+      "trait_type": "Character",
+      "value": "74"
     }
   ]
 }

@@ -6,11 +6,15 @@
   "attributes": [
     {
       "trait_type": "Backdrop",
-      "value": "Indigo Dye"
+      "value": "Coral Red"
     },
     {
       "trait_type": "Symbol",
-      "value": "Ink Pen"
+      "value": "Crown"
+    },
+    {
+      "trait_type": "Character",
+      "value": "212"
     }
   ]
 }
