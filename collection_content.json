@@ -1,5 +1,5 @@
 {
-  "cover_image": "https://darktoken.io/nft/darkcollection3/cover_image.jpg",
+  "cover_image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/shapka.png",
   "description": "$DARK PRESIDENTS COLLECTION",
   "social_links": [
     "https://t.me/darkmemtoken",
@@ -10,5 +10,5 @@
     "https://lighttoken.org"
   ],
   "name": "DARK PRESIDENTS",
-  "image": "https://darktoken.io/nft/darkcollection3/image.jpg"
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/avatar.jpg"
 }
