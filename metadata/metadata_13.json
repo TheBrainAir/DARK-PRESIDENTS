@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #13",
+  "name": "DARK PRESIDENT #13",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/13.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/13.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "158"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Mask"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Silver Blue"
+    }
+  ]
+}

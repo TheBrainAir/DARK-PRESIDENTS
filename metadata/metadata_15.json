@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #15",
+  "name": "DARK PRESIDENT #15",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/15.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/15.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "106"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Yogi Shaman"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Electric Indigo"
+    }
+  ]
+}

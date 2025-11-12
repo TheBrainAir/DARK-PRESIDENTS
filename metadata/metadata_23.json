@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #23",
+  "name": "DARK PRESIDENT #23",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/23.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/23.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "207"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Gamepad"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Black"
+    }
+  ]
+}

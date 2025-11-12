@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #19",
+  "name": "DARK PRESIDENT #19",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/19.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/19.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "36"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Tulip"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Sapphire"
+    }
+  ]
+}

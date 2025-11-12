@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #20",
+  "name": "DARK PRESIDENT #20",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/20.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/20.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "145"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Watermelon"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Silver Blue"
+    }
+  ]
+}

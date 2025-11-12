@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #39",
+  "name": "DARK PRESIDENT #39",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/39.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/39.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "130"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Cunning Fox"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Cyberpunk"
+    }
+  ]
+}

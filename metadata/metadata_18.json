@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #18",
+  "name": "DARK PRESIDENT #18",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/18.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/18.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "28"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Jellyfish"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Cappuccino"
+    }
+  ]
+}

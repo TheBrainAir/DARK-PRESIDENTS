@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #17",
+  "name": "DARK PRESIDENT #17",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/17.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/17.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "110"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Inguz Rune"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Shamrock Green"
+    }
+  ]
+}

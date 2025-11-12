@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #47",
+  "name": "DARK PRESIDENT #47",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/47.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/47.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "146"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Turkey"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Emerald"
+    }
+  ]
+}

@@ -5,16 +5,16 @@
   "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/1.json",
   "attributes": [
     {
-      "trait_type": "Backdrop",
-      "value": "Sapphire"
+      "trait_type": "Model",
+      "value": "98"
     },
     {
       "trait_type": "Symbol",
-      "value": "Tie"
+      "value": "Kitsune"
     },
     {
-      "trait_type": "Character",
-      "value": "184"
+      "trait_type": "Backdrop",
+      "value": "Light Olive"
     }
   ]
 }

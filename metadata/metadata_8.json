@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #8",
+  "name": "DARK PRESIDENT #8",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/8.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/8.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "54"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Sword"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Rosewood"
+    }
+  ]
+}

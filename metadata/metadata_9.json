@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #9",
+  "name": "DARK PRESIDENT #9",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/9.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/9.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "168"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Oak Leaf"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Rosewood"
+    }
+  ]
+}
