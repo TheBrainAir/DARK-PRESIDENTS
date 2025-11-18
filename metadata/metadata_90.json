@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #90 — a procedurally generated figure featuring the 6 model, the Car symbol, and a Purple backdrop.",
+  "name": "DARK PRESIDENT #90",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/90.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/90.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "6"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Car"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Purple"
+    }
+  ]
+}

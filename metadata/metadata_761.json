@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #761 — a procedurally generated figure featuring the 180 model, the Vortex symbol, and a Turquoise backdrop.",
+  "name": "DARK PRESIDENT #761",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/761.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/761.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "180"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Vortex"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Turquoise"
+    }
+  ]
+}

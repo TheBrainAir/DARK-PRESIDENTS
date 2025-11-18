@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #89 — a procedurally generated figure featuring the 210 model, the Pyramid symbol, and a Caramel backdrop.",
+  "name": "DARK PRESIDENT #89",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/89.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/89.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "210"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Pyramid"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Caramel"
+    }
+  ]
+}

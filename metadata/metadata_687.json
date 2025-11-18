@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #687 — a procedurally generated figure featuring the 144 model, the Toilet Paper symbol, and a Cobalt Blue backdrop.",
+  "name": "DARK PRESIDENT #687",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/687.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/687.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "144"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Toilet Paper"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Cobalt Blue"
+    }
+  ]
+}

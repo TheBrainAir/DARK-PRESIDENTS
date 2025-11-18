@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #293 — a procedurally generated figure featuring the 71 model, the Garden Pot symbol, and a Lavender backdrop.",
+  "name": "DARK PRESIDENT #293",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/293.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/293.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "71"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Garden Pot"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Lavender"
+    }
+  ]
+}

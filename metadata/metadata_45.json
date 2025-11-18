@@ -1,20 +1,20 @@
 {
-  "description": "DARK PRESIDENT #45",
+  "description": "DARK PRESIDENT #45 — a procedurally generated figure featuring the 145 model, the Sword symbol, and a Lemongrass backdrop.",
   "name": "DARK PRESIDENT #45",
   "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/45.webp",
   "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/45.json",
   "attributes": [
     {
       "trait_type": "Model",
-      "value": "59"
+      "value": "145"
     },
     {
       "trait_type": "Symbol",
-      "value": "Strawberry"
+      "value": "Sword"
     },
     {
       "trait_type": "Backdrop",
-      "value": "Cappuccino"
+      "value": "Lemongrass"
     }
   ]
 }

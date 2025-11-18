@@ -1,20 +1,20 @@
 {
-  "description": "DARK PRESIDENT #11",
+  "description": "DARK PRESIDENT #11 — a procedurally generated figure featuring the 204 model, the Beetle symbol, and a Khaki Green backdrop.",
   "name": "DARK PRESIDENT #11",
   "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/11.webp",
   "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/11.json",
   "attributes": [
     {
       "trait_type": "Model",
-      "value": "143"
+      "value": "204"
     },
     {
       "trait_type": "Symbol",
-      "value": "Melon"
+      "value": "Beetle"
     },
     {
       "trait_type": "Backdrop",
-      "value": "Carrot Juice"
+      "value": "Khaki Green"
     }
   ]
 }

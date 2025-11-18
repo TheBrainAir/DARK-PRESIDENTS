@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #855 — a procedurally generated figure featuring the 148 model, the Sea Horse symbol, and a Raspberry backdrop.",
+  "name": "DARK PRESIDENT #855",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/855.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/855.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "148"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Sea Horse"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Raspberry"
+    }
+  ]
+}

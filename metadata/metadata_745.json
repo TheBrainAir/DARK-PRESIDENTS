@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #745 — a procedurally generated figure featuring the 64 model, the Coin Purse symbol, and a Electric Indigo backdrop.",
+  "name": "DARK PRESIDENT #745",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/745.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/745.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "64"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Coin Purse"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Electric Indigo"
+    }
+  ]
+}

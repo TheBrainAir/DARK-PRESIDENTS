@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #55 — a procedurally generated figure featuring the 47 model, the Crystal Ball symbol, and a Cobalt Blue backdrop.",
+  "name": "DARK PRESIDENT #55",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/55.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/55.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "47"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Crystal Ball"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Cobalt Blue"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #599 — a procedurally generated figure featuring the 70 model, the Loving Heart symbol, and a English Violet backdrop.",
+  "name": "DARK PRESIDENT #599",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/599.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/599.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "70"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Loving Heart"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "English Violet"
+    }
+  ]
+}

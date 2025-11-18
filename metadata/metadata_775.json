@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #775 — a procedurally generated figure featuring the 82 model, the Dessert symbol, and a Copper backdrop.",
+  "name": "DARK PRESIDENT #775",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/775.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/775.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "82"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Dessert"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Copper"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #322 — a procedurally generated figure featuring the 219 model, the Cupcake symbol, and a Indigo Dye backdrop.",
+  "name": "DARK PRESIDENT #322",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/322.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/322.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "219"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Cupcake"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Indigo Dye"
+    }
+  ]
+}

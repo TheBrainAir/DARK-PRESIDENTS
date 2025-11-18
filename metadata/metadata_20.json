@@ -1,20 +1,20 @@
 {
-  "description": "DARK PRESIDENT #20",
+  "description": "DARK PRESIDENT #20 — a procedurally generated figure featuring the 128 model, the Flirty Message symbol, and a Orange backdrop.",
   "name": "DARK PRESIDENT #20",
   "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/20.webp",
   "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/20.json",
   "attributes": [
     {
       "trait_type": "Model",
-      "value": "145"
+      "value": "128"
     },
     {
       "trait_type": "Symbol",
-      "value": "Watermelon"
+      "value": "Flirty Message"
     },
     {
       "trait_type": "Backdrop",
-      "value": "Silver Blue"
+      "value": "Orange"
     }
   ]
 }

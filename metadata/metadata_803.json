@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #803 — a procedurally generated figure featuring the 210 model, the Padlock symbol, and a Chestnut backdrop.",
+  "name": "DARK PRESIDENT #803",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/803.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/803.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "210"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Padlock"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Chestnut"
+    }
+  ]
+}

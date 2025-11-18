@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #181 — a procedurally generated figure featuring the 137 model, the Turkey symbol, and a Sky Blue backdrop.",
+  "name": "DARK PRESIDENT #181",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/181.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/181.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "137"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Turkey"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Sky Blue"
+    }
+  ]
+}

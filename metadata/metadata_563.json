@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #563 — a procedurally generated figure featuring the 142 model, the Hermit Shell symbol, and a Light Olive backdrop.",
+  "name": "DARK PRESIDENT #563",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/563.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/563.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "142"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Hermit Shell"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Light Olive"
+    }
+  ]
+}

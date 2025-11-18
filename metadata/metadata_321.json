@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #321 — a procedurally generated figure featuring the 116 model, the Cocktail symbol, and a Purple backdrop.",
+  "name": "DARK PRESIDENT #321",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/321.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/321.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "116"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Cocktail"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Purple"
+    }
+  ]
+}

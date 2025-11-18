@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #704 — a procedurally generated figure featuring the 41 model, the Sweets Box symbol, and a Burgundy backdrop.",
+  "name": "DARK PRESIDENT #704",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/704.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/704.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "41"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Sweets Box"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Burgundy"
+    }
+  ]
+}

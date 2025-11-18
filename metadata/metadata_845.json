@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #845 — a procedurally generated figure featuring the 62 model, the Calm Wolf symbol, and a Rosewood backdrop.",
+  "name": "DARK PRESIDENT #845",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/845.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/845.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "62"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Calm Wolf"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Rosewood"
+    }
+  ]
+}

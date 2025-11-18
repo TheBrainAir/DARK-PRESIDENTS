@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #273 — a procedurally generated figure featuring the 143 model, the Eagle symbol, and a Emerald backdrop.",
+  "name": "DARK PRESIDENT #273",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/273.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/273.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "143"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Eagle"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Emerald"
+    }
+  ]
+}

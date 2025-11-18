@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #132 — a procedurally generated figure featuring the 39 model, the Jumbo Pencil symbol, and a Emerald backdrop.",
+  "name": "DARK PRESIDENT #132",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/132.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/132.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "39"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Jumbo Pencil"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Emerald"
+    }
+  ]
+}

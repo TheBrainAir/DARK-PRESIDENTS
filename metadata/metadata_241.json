@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #241 — a procedurally generated figure featuring the 119 model, the Kitsune symbol, and a Pine Green backdrop.",
+  "name": "DARK PRESIDENT #241",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/241.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/241.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "119"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Kitsune"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Pine Green"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #539 — a procedurally generated figure featuring the 56 model, the Shield symbol, and a Lemongrass backdrop.",
+  "name": "DARK PRESIDENT #539",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/539.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/539.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "56"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Shield"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Lemongrass"
+    }
+  ]
+}

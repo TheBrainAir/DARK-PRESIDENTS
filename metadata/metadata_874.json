@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #874 — a procedurally generated figure featuring the 57 model, the Bastet symbol, and a Midnight Blue backdrop.",
+  "name": "DARK PRESIDENT #874",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/874.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/874.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "57"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Bastet"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Midnight Blue"
+    }
+  ]
+}

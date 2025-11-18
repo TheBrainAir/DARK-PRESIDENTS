@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #656 — a procedurally generated figure featuring the 127 model, the Lovebirds symbol, and a Electric Purple backdrop.",
+  "name": "DARK PRESIDENT #656",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/656.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/656.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "127"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Lovebirds"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Electric Purple"
+    }
+  ]
+}

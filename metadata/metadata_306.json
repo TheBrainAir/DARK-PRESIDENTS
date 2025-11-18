@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #306 — a procedurally generated figure featuring the 175 model, the Heart Balloon symbol, and a Lemongrass backdrop.",
+  "name": "DARK PRESIDENT #306",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/306.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/306.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "175"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Heart Balloon"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Lemongrass"
+    }
+  ]
+}

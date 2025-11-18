@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #412 — a procedurally generated figure featuring the 80 model, the Potion symbol, and a English Violet backdrop.",
+  "name": "DARK PRESIDENT #412",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/412.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/412.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "80"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Potion"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "English Violet"
+    }
+  ]
+}

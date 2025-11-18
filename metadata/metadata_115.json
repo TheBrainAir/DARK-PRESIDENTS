@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #115 — a procedurally generated figure featuring the 92 model, the Love Letter symbol, and a Caramel backdrop.",
+  "name": "DARK PRESIDENT #115",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/115.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/115.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "92"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Love Letter"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Caramel"
+    }
+  ]
+}

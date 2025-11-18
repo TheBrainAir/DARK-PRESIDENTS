@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #244 — a procedurally generated figure featuring the 128 model, the Cocktail symbol, and a Grape backdrop.",
+  "name": "DARK PRESIDENT #244",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/244.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/244.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "128"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Cocktail"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Grape"
+    }
+  ]
+}

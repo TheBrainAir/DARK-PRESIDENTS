@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #692 — a procedurally generated figure featuring the 130 model, the Patched Heart symbol, and a Sky Blue backdrop.",
+  "name": "DARK PRESIDENT #692",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/692.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/692.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "130"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Patched Heart"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Sky Blue"
+    }
+  ]
+}

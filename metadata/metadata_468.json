@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #468 — a procedurally generated figure featuring the 214 model, the Jellyfish symbol, and a Satin Gold backdrop.",
+  "name": "DARK PRESIDENT #468",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/468.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/468.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "214"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Jellyfish"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Satin Gold"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #222 — a procedurally generated figure featuring the 76 model, the Sumerian Bird symbol, and a Lavender backdrop.",
+  "name": "DARK PRESIDENT #222",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/222.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/222.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "76"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Sumerian Bird"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Lavender"
+    }
+  ]
+}

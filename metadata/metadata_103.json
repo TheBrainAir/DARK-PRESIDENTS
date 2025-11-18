@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #103 — a procedurally generated figure featuring the 79 model, the Vortex symbol, and a Chestnut backdrop.",
+  "name": "DARK PRESIDENT #103",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/103.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/103.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "79"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Vortex"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Chestnut"
+    }
+  ]
+}

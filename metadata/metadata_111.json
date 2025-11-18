@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #111 — a procedurally generated figure featuring the 42 model, the Tree of Life symbol, and a Caramel backdrop.",
+  "name": "DARK PRESIDENT #111",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/111.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/111.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "42"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Tree of Life"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Caramel"
+    }
+  ]
+}

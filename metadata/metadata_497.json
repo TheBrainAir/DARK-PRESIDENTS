@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #497 — a procedurally generated figure featuring the 156 model, the Broken Heart symbol, and a Fandango backdrop.",
+  "name": "DARK PRESIDENT #497",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/497.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/497.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "156"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Broken Heart"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Fandango"
+    }
+  ]
+}

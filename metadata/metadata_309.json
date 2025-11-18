@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #309 — a procedurally generated figure featuring the 176 model, the Book symbol, and a French Blue backdrop.",
+  "name": "DARK PRESIDENT #309",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/309.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/309.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "176"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Book"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "French Blue"
+    }
+  ]
+}

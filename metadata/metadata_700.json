@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #700 — a procedurally generated figure featuring the 173 model, the Tie symbol, and a Steel Grey backdrop.",
+  "name": "DARK PRESIDENT #700",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/700.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/700.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "173"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Tie"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Steel Grey"
+    }
+  ]
+}

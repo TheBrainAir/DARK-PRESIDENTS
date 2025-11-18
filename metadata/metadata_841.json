@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #841 — a procedurally generated figure featuring the 62 model, the Wolf Rage symbol, and a Pure Gold backdrop.",
+  "name": "DARK PRESIDENT #841",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/841.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/841.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "62"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Wolf Rage"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Pure Gold"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #443 — a procedurally generated figure featuring the 200 model, the Anchor symbol, and a Shamrock Green backdrop.",
+  "name": "DARK PRESIDENT #443",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/443.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/443.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "200"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Anchor"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Shamrock Green"
+    }
+  ]
+}

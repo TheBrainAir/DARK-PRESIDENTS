@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #444 — a procedurally generated figure featuring the 14 model, the Strawberry symbol, and a Satin Gold backdrop.",
+  "name": "DARK PRESIDENT #444",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/444.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/444.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "14"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Strawberry"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Satin Gold"
+    }
+  ]
+}

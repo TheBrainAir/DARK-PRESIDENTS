@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #420 — a procedurally generated figure featuring the 105 model, the Pencil symbol, and a Moonstone backdrop.",
+  "name": "DARK PRESIDENT #420",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/420.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/420.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "105"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Pencil"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Moonstone"
+    }
+  ]
+}

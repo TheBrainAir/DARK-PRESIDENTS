@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #297 — a procedurally generated figure featuring the 156 model, the Water Drops symbol, and a Sapphire backdrop.",
+  "name": "DARK PRESIDENT #297",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/297.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/297.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "156"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Water Drops"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Sapphire"
+    }
+  ]
+}

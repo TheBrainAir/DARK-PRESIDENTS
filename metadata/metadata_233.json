@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #233 — a procedurally generated figure featuring the 93 model, the Flirty Message symbol, and a Chestnut backdrop.",
+  "name": "DARK PRESIDENT #233",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/233.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/233.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "93"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Flirty Message"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Chestnut"
+    }
+  ]
+}

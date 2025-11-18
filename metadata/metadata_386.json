@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #386 — a procedurally generated figure featuring the 210 model, the Tooth symbol, and a Shamrock Green backdrop.",
+  "name": "DARK PRESIDENT #386",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/386.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/386.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "210"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Tooth"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Shamrock Green"
+    }
+  ]
+}

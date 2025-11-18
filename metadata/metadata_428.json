@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #428 — a procedurally generated figure featuring the 6 model, the Sakura symbol, and a Neon Blue backdrop.",
+  "name": "DARK PRESIDENT #428",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/428.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/428.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "6"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Sakura"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Neon Blue"
+    }
+  ]
+}

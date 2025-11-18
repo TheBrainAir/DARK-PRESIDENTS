@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #524 — a procedurally generated figure featuring the 166 model, the Diamond symbol, and a Ivory White backdrop.",
+  "name": "DARK PRESIDENT #524",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/524.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/524.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "166"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Ivory White"
+    }
+  ]
+}

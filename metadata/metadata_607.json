@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #607 — a procedurally generated figure featuring the 184 model, the Conch symbol, and a Electric Indigo backdrop.",
+  "name": "DARK PRESIDENT #607",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/607.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/607.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "184"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Conch"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Electric Indigo"
+    }
+  ]
+}

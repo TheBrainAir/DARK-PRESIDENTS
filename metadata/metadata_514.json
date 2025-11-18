@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #514 — a procedurally generated figure featuring the 168 model, the Gem symbol, and a Azure Blue backdrop.",
+  "name": "DARK PRESIDENT #514",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/514.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/514.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "168"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Gem"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Azure Blue"
+    }
+  ]
+}

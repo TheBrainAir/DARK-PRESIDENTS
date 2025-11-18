@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #319 — a procedurally generated figure featuring the 113 model, the Double Bed symbol, and a Onyx Black backdrop.",
+  "name": "DARK PRESIDENT #319",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/319.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/319.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "113"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Double Bed"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Onyx Black"
+    }
+  ]
+}

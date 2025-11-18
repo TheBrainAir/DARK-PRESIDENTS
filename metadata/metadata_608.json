@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #608 — a procedurally generated figure featuring the 125 model, the Twin Peaks symbol, and a Mystic Pearl backdrop.",
+  "name": "DARK PRESIDENT #608",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/608.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/608.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "125"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Twin Peaks"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Mystic Pearl"
+    }
+  ]
+}

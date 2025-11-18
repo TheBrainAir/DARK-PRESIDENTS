@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #73 — a procedurally generated figure featuring the 101 model, the Sun Mountain symbol, and a Shamrock Green backdrop.",
+  "name": "DARK PRESIDENT #73",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/73.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/73.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "101"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Sun Mountain"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Shamrock Green"
+    }
+  ]
+}

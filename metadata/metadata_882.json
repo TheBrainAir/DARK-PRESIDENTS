@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #882 — a procedurally generated figure featuring the 6 model, the Dice symbol, and a Rosewood backdrop.",
+  "name": "DARK PRESIDENT #882",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/882.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/882.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "6"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Dice"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Rosewood"
+    }
+  ]
+}

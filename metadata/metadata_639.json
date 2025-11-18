@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #639 — a procedurally generated figure featuring the 43 model, the Oak Leaf symbol, and a Persimmon backdrop.",
+  "name": "DARK PRESIDENT #639",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/639.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/639.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "43"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Oak Leaf"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Persimmon"
+    }
+  ]
+}

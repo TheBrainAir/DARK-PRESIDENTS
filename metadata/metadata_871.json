@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #871 — a procedurally generated figure featuring the 11 model, the Watermelon symbol, and a Copper backdrop.",
+  "name": "DARK PRESIDENT #871",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/871.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/871.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "11"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Watermelon"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Copper"
+    }
+  ]
+}

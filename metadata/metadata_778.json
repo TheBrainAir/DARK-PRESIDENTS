@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #778 — a procedurally generated figure featuring the 158 model, the Hand of God symbol, and a Pure Gold backdrop.",
+  "name": "DARK PRESIDENT #778",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/778.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/778.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "158"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Hand of God"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Pure Gold"
+    }
+  ]
+}

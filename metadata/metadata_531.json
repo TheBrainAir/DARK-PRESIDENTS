@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #531 — a procedurally generated figure featuring the 112 model, the Cherry symbol, and a Sapphire backdrop.",
+  "name": "DARK PRESIDENT #531",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/531.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/531.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "112"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Cherry"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Sapphire"
+    }
+  ]
+}

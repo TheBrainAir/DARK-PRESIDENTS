@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #278 — a procedurally generated figure featuring the 81 model, the Anchor symbol, and a Platinum backdrop.",
+  "name": "DARK PRESIDENT #278",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/278.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/278.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "81"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Anchor"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Platinum"
+    }
+  ]
+}

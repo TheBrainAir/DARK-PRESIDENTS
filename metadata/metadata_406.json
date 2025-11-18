@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #406 — a procedurally generated figure featuring the 147 model, the Mountain Goat symbol, and a Turquoise backdrop.",
+  "name": "DARK PRESIDENT #406",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/406.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/406.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "147"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Mountain Goat"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Turquoise"
+    }
+  ]
+}

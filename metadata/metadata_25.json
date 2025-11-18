@@ -1,20 +1,20 @@
 {
-  "description": "DARK PRESIDENT #25",
+  "description": "DARK PRESIDENT #25 — a procedurally generated figure featuring the 205 model, the Flirty Message symbol, and a Cyberpunk backdrop.",
   "name": "DARK PRESIDENT #25",
   "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/25.webp",
   "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/25.json",
   "attributes": [
     {
       "trait_type": "Model",
-      "value": "62"
+      "value": "205"
     },
     {
       "trait_type": "Symbol",
-      "value": "Twin Peaks"
+      "value": "Flirty Message"
     },
     {
       "trait_type": "Backdrop",
-      "value": "Ivory White"
+      "value": "Cyberpunk"
     }
   ]
 }

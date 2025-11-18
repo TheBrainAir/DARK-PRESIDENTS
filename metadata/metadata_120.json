@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #120 — a procedurally generated figure featuring the 213 model, the Rabbit symbol, and a Pistachio backdrop.",
+  "name": "DARK PRESIDENT #120",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/120.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/120.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "213"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Rabbit"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Pistachio"
+    }
+  ]
+}

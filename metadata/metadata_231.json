@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #231 — a procedurally generated figure featuring the 97 model, the Magic Wand symbol, and a Sapphire backdrop.",
+  "name": "DARK PRESIDENT #231",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/231.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/231.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "97"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Magic Wand"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Sapphire"
+    }
+  ]
+}

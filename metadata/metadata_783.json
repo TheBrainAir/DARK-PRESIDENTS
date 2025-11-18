@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #783 — a procedurally generated figure featuring the 101 model, the Car symbol, and a French Blue backdrop.",
+  "name": "DARK PRESIDENT #783",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/783.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/783.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "101"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Car"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "French Blue"
+    }
+  ]
+}

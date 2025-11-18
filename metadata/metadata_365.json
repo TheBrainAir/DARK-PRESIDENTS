@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #365 — a procedurally generated figure featuring the 92 model, the Brain symbol, and a Lavender backdrop.",
+  "name": "DARK PRESIDENT #365",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/365.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/365.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "92"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Brain"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Lavender"
+    }
+  ]
+}

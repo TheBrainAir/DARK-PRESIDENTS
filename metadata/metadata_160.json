@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #160 — a procedurally generated figure featuring the 33 model, the Cupcake symbol, and a Fandango backdrop.",
+  "name": "DARK PRESIDENT #160",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/160.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/160.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "33"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Cupcake"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Fandango"
+    }
+  ]
+}

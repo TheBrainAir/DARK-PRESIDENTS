@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #167 — a procedurally generated figure featuring the 157 model, the Garden Pot symbol, and a Silver Blue backdrop.",
+  "name": "DARK PRESIDENT #167",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/167.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/167.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "157"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Garden Pot"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Silver Blue"
+    }
+  ]
+}

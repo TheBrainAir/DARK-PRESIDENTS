@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #150 — a procedurally generated figure featuring the 135 model, the Sunflower symbol, and a Aquamarine backdrop.",
+  "name": "DARK PRESIDENT #150",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/150.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/150.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "135"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Sunflower"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Aquamarine"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #742 — a procedurally generated figure featuring the 192 model, the Love Lock symbol, and a Azure Blue backdrop.",
+  "name": "DARK PRESIDENT #742",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/742.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/742.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "192"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Love Lock"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Azure Blue"
+    }
+  ]
+}

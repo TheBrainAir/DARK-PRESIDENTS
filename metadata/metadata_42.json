@@ -1,20 +1,20 @@
 {
-  "description": "DARK PRESIDENT #42",
+  "description": "DARK PRESIDENT #42 — a procedurally generated figure featuring the 163 model, the Sweets Box symbol, and a Platinum backdrop.",
   "name": "DARK PRESIDENT #42",
   "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/42.webp",
   "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/42.json",
   "attributes": [
     {
       "trait_type": "Model",
-      "value": "126"
+      "value": "163"
     },
     {
       "trait_type": "Symbol",
-      "value": "Tree of Life"
+      "value": "Sweets Box"
     },
     {
       "trait_type": "Backdrop",
-      "value": "Chocolate"
+      "value": "Platinum"
     }
   ]
 }

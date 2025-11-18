@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #356 — a procedurally generated figure featuring the 154 model, the Bug symbol, and a Raspberry backdrop.",
+  "name": "DARK PRESIDENT #356",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/356.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/356.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "154"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Bug"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Raspberry"
+    }
+  ]
+}

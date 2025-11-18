@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #858 — a procedurally generated figure featuring the 22 model, the Sun Mountain symbol, and a Chocolate backdrop.",
+  "name": "DARK PRESIDENT #858",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/858.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/858.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "22"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Sun Mountain"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Chocolate"
+    }
+  ]
+}

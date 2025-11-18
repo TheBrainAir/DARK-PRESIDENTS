@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #99 — a procedurally generated figure featuring the 30 model, the Sea Horse symbol, and a Satin Gold backdrop.",
+  "name": "DARK PRESIDENT #99",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/99.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/99.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "30"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Sea Horse"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Satin Gold"
+    }
+  ]
+}

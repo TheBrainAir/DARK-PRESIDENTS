@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #449 — a procedurally generated figure featuring the 218 model, the Car symbol, and a Rosewood backdrop.",
+  "name": "DARK PRESIDENT #449",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/449.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/449.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "218"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Car"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Rosewood"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #580 — a procedurally generated figure featuring the 48 model, the Cocktail symbol, and a Satin Gold backdrop.",
+  "name": "DARK PRESIDENT #580",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/580.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/580.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "48"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Cocktail"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Satin Gold"
+    }
+  ]
+}

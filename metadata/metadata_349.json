@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #349 — a procedurally generated figure featuring the 49 model, the Bull of Heaven symbol, and a Platinum backdrop.",
+  "name": "DARK PRESIDENT #349",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/349.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/349.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "49"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Bull of Heaven"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Platinum"
+    }
+  ]
+}

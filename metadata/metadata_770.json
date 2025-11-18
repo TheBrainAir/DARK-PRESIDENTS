@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #770 — a procedurally generated figure featuring the 14 model, the Fenrir symbol, and a Coral Red backdrop.",
+  "name": "DARK PRESIDENT #770",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/770.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/770.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "14"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Fenrir"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Coral Red"
+    }
+  ]
+}

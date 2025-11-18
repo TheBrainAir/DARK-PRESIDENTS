@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #655 — a procedurally generated figure featuring the 115 model, the Flying Heart symbol, and a Light Olive backdrop.",
+  "name": "DARK PRESIDENT #655",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/655.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/655.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "115"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Flying Heart"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Light Olive"
+    }
+  ]
+}

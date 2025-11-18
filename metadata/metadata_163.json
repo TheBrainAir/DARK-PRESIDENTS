@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #163 — a procedurally generated figure featuring the 138 model, the Gingerbread symbol, and a Indigo Dye backdrop.",
+  "name": "DARK PRESIDENT #163",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/163.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/163.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "138"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Gingerbread"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Indigo Dye"
+    }
+  ]
+}

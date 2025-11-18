@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #526 — a procedurally generated figure featuring the 121 model, the Broken Heart symbol, and a Malachite backdrop.",
+  "name": "DARK PRESIDENT #526",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/526.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/526.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "121"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Broken Heart"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Malachite"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #669 — a procedurally generated figure featuring the 145 model, the Kite symbol, and a Electric Indigo backdrop.",
+  "name": "DARK PRESIDENT #669",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/669.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/669.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "145"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Kite"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Electric Indigo"
+    }
+  ]
+}

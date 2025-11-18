@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #779 — a procedurally generated figure featuring the 216 model, the Dolphin symbol, and a Shamrock Green backdrop.",
+  "name": "DARK PRESIDENT #779",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/779.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/779.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "216"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Dolphin"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Shamrock Green"
+    }
+  ]
+}

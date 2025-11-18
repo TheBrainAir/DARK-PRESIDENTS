@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #453 — a procedurally generated figure featuring the 189 model, the Cicada symbol, and a Satin Gold backdrop.",
+  "name": "DARK PRESIDENT #453",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/453.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/453.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "189"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Cicada"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Satin Gold"
+    }
+  ]
+}

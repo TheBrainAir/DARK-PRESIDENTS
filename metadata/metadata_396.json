@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #396 — a procedurally generated figure featuring the 114 model, the Loveberry symbol, and a Copper backdrop.",
+  "name": "DARK PRESIDENT #396",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/396.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/396.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "114"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Loveberry"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Copper"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #207 — a procedurally generated figure featuring the 154 model, the Loving Heart symbol, and a Purple backdrop.",
+  "name": "DARK PRESIDENT #207",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/207.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/207.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "154"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Loving Heart"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Purple"
+    }
+  ]
+}

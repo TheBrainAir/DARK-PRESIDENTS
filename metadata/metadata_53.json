@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #53 — a procedurally generated figure featuring the 67 model, the Gem symbol, and a Silver Blue backdrop.",
+  "name": "DARK PRESIDENT #53",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/53.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/53.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "67"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Gem"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Silver Blue"
+    }
+  ]
+}

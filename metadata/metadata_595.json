@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #595 — a procedurally generated figure featuring the 33 model, the Crown symbol, and a Jade Green backdrop.",
+  "name": "DARK PRESIDENT #595",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/595.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/595.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "33"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Jade Green"
+    }
+  ]
+}

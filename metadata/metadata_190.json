@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #190 — a procedurally generated figure featuring the 124 model, the Garden Pot symbol, and a Satin Gold backdrop.",
+  "name": "DARK PRESIDENT #190",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/190.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/190.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "124"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Garden Pot"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Satin Gold"
+    }
+  ]
+}

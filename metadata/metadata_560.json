@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #560 — a procedurally generated figure featuring the 197 model, the Bastet symbol, and a Hunter Green backdrop.",
+  "name": "DARK PRESIDENT #560",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/560.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/560.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "197"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Bastet"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Hunter Green"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #786 — a procedurally generated figure featuring the 71 model, the Shooting Star symbol, and a Strawberry backdrop.",
+  "name": "DARK PRESIDENT #786",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/786.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/786.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "71"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Shooting Star"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Strawberry"
+    }
+  ]
+}

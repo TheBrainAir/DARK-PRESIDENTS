@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #654 — a procedurally generated figure featuring the 209 model, the Illuminati symbol, and a Cappuccino backdrop.",
+  "name": "DARK PRESIDENT #654",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/654.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/654.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "209"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Illuminati"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Cappuccino"
+    }
+  ]
+}

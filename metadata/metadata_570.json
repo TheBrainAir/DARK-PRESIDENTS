@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #570 — a procedurally generated figure featuring the 48 model, the Pencil symbol, and a Lemongrass backdrop.",
+  "name": "DARK PRESIDENT #570",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/570.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/570.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "48"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Pencil"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Lemongrass"
+    }
+  ]
+}

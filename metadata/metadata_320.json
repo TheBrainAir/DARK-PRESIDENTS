@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #320 — a procedurally generated figure featuring the 127 model, the Dolphin symbol, and a Moonstone backdrop.",
+  "name": "DARK PRESIDENT #320",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/320.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/320.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "127"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Dolphin"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Moonstone"
+    }
+  ]
+}

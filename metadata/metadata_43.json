@@ -1,20 +1,20 @@
 {
-  "description": "DARK PRESIDENT #43",
+  "description": "DARK PRESIDENT #43 — a procedurally generated figure featuring the 141 model, the Celtic Wolf symbol, and a Cappuccino backdrop.",
   "name": "DARK PRESIDENT #43",
   "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/43.webp",
   "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/43.json",
   "attributes": [
     {
       "trait_type": "Model",
-      "value": "174"
+      "value": "141"
     },
     {
       "trait_type": "Symbol",
-      "value": "Aubergine"
+      "value": "Celtic Wolf"
     },
     {
       "trait_type": "Backdrop",
-      "value": "Grape"
+      "value": "Cappuccino"
     }
   ]
 }

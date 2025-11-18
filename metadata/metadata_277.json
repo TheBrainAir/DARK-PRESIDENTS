@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #277 — a procedurally generated figure featuring the 116 model, the Spirit Impala symbol, and a Onyx Black backdrop.",
+  "name": "DARK PRESIDENT #277",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/277.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/277.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "116"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Spirit Impala"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Onyx Black"
+    }
+  ]
+}

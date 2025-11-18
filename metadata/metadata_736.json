@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #736 — a procedurally generated figure featuring the 50 model, the Love Lock symbol, and a Black backdrop.",
+  "name": "DARK PRESIDENT #736",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/736.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/736.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "50"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Love Lock"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Black"
+    }
+  ]
+}

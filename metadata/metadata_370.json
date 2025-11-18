@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #370 — a procedurally generated figure featuring the 111 model, the Heartbeat symbol, and a Lemongrass backdrop.",
+  "name": "DARK PRESIDENT #370",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/370.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/370.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "111"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Heartbeat"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Lemongrass"
+    }
+  ]
+}

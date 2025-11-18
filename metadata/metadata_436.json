@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #436 — a procedurally generated figure featuring the 185 model, the Padlock symbol, and a Carrot Juice backdrop.",
+  "name": "DARK PRESIDENT #436",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/436.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/436.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "185"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Padlock"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Carrot Juice"
+    }
+  ]
+}

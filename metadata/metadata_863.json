@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #863 — a procedurally generated figure featuring the 145 model, the PC Mouse symbol, and a Orange backdrop.",
+  "name": "DARK PRESIDENT #863",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/863.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/863.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "145"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "PC Mouse"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Orange"
+    }
+  ]
+}

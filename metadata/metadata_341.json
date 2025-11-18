@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #341 — a procedurally generated figure featuring the 199 model, the Money Bag symbol, and a Pistachio backdrop.",
+  "name": "DARK PRESIDENT #341",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/341.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/341.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "199"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Money Bag"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Pistachio"
+    }
+  ]
+}

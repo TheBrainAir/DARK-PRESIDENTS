@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #260 — a procedurally generated figure featuring the 177 model, the Conch symbol, and a Chocolate backdrop.",
+  "name": "DARK PRESIDENT #260",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/260.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/260.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "177"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Conch"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Chocolate"
+    }
+  ]
+}

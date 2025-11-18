@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #594 — a procedurally generated figure featuring the 15 model, the Arabian Horse symbol, and a Burgundy backdrop.",
+  "name": "DARK PRESIDENT #594",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/594.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/594.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "15"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Arabian Horse"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Burgundy"
+    }
+  ]
+}

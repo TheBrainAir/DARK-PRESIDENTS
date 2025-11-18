@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #804 — a procedurally generated figure featuring the 100 model, the Cash symbol, and a Roman Silver backdrop.",
+  "name": "DARK PRESIDENT #804",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/804.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/804.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "100"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Cash"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Roman Silver"
+    }
+  ]
+}

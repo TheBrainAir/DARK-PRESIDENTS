@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #213 — a procedurally generated figure featuring the 121 model, the Tie symbol, and a Persimmon backdrop.",
+  "name": "DARK PRESIDENT #213",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/213.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/213.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "121"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Tie"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Persimmon"
+    }
+  ]
+}

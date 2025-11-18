@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #817 — a procedurally generated figure featuring the 138 model, the Inguz Rune symbol, and a Steel Grey backdrop.",
+  "name": "DARK PRESIDENT #817",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/817.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/817.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "138"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Inguz Rune"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Steel Grey"
+    }
+  ]
+}

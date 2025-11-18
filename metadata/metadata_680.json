@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #680 — a procedurally generated figure featuring the 8 model, the Water Drops symbol, and a Sapphire backdrop.",
+  "name": "DARK PRESIDENT #680",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/680.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/680.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "8"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Water Drops"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Sapphire"
+    }
+  ]
+}

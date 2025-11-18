@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #131 — a procedurally generated figure featuring the 218 model, the Heart Balloon symbol, and a Light Olive backdrop.",
+  "name": "DARK PRESIDENT #131",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/131.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/131.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "218"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Heart Balloon"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Light Olive"
+    }
+  ]
+}

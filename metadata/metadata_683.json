@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #683 — a procedurally generated figure featuring the 107 model, the Heart Balloon symbol, and a Persimmon backdrop.",
+  "name": "DARK PRESIDENT #683",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/683.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/683.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "107"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Heart Balloon"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Persimmon"
+    }
+  ]
+}

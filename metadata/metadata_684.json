@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #684 — a procedurally generated figure featuring the 176 model, the Lips symbol, and a Azure Blue backdrop.",
+  "name": "DARK PRESIDENT #684",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/684.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/684.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "176"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Lips"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Azure Blue"
+    }
+  ]
+}

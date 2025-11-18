@@ -1,20 +1,20 @@
 {
-  "description": "DARK PRESIDENT #18",
+  "description": "DARK PRESIDENT #18 — a procedurally generated figure featuring the 81 model, the Kitty Cat symbol, and a Midnight Blue backdrop.",
   "name": "DARK PRESIDENT #18",
   "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/18.webp",
   "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/18.json",
   "attributes": [
     {
       "trait_type": "Model",
-      "value": "28"
+      "value": "81"
     },
     {
       "trait_type": "Symbol",
-      "value": "Jellyfish"
+      "value": "Kitty Cat"
     },
     {
       "trait_type": "Backdrop",
-      "value": "Cappuccino"
+      "value": "Midnight Blue"
     }
   ]
 }

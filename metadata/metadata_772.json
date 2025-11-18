@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #772 — a procedurally generated figure featuring the 136 model, the Lovely Bra symbol, and a Rosewood backdrop.",
+  "name": "DARK PRESIDENT #772",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/772.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/772.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "136"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Lovely Bra"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Rosewood"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #285 — a procedurally generated figure featuring the 50 model, the Golden Scarab symbol, and a Raspberry backdrop.",
+  "name": "DARK PRESIDENT #285",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/285.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/285.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "50"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Golden Scarab"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Raspberry"
+    }
+  ]
+}

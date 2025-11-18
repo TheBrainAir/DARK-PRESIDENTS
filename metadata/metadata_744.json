@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #744 — a procedurally generated figure featuring the 198 model, the Loving Heart symbol, and a Onyx Black backdrop.",
+  "name": "DARK PRESIDENT #744",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/744.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/744.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "198"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Loving Heart"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Onyx Black"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #739 — a procedurally generated figure featuring the 19 model, the Cupid symbol, and a Carrot Juice backdrop.",
+  "name": "DARK PRESIDENT #739",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/739.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/739.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "19"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Cupid"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Carrot Juice"
+    }
+  ]
+}

@@ -1,20 +1,20 @@
 {
-  "description": "DARK PRESIDENT #8",
+  "description": "DARK PRESIDENT #8 — a procedurally generated figure featuring the 35 model, the Diamonds symbol, and a Navy Blue backdrop.",
   "name": "DARK PRESIDENT #8",
   "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/8.webp",
   "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/8.json",
   "attributes": [
     {
       "trait_type": "Model",
-      "value": "54"
+      "value": "35"
     },
     {
       "trait_type": "Symbol",
-      "value": "Sword"
+      "value": "Diamonds"
     },
     {
       "trait_type": "Backdrop",
-      "value": "Rosewood"
+      "value": "Navy Blue"
     }
   ]
 }

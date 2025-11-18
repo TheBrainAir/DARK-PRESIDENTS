@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #567 — a procedurally generated figure featuring the 215 model, the The Eye symbol, and a Black backdrop.",
+  "name": "DARK PRESIDENT #567",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/567.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/567.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "215"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "The Eye"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Black"
+    }
+  ]
+}

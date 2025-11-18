@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #462 — a procedurally generated figure featuring the 216 model, the Coconut symbol, and a Strawberry backdrop.",
+  "name": "DARK PRESIDENT #462",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/462.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/462.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "216"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Coconut"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Strawberry"
+    }
+  ]
+}

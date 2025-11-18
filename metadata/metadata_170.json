@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #170 — a procedurally generated figure featuring the 56 model, the Magic Wand symbol, and a Satin Gold backdrop.",
+  "name": "DARK PRESIDENT #170",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/170.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/170.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "56"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Magic Wand"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Satin Gold"
+    }
+  ]
+}

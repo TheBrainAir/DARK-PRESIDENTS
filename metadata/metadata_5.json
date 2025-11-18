@@ -1,20 +1,20 @@
 {
-  "description": "DARK PRESIDENT #5",
+  "description": "DARK PRESIDENT #5 — a procedurally generated figure featuring the 20 model, the Cap symbol, and a Satin Gold backdrop.",
   "name": "DARK PRESIDENT #5",
   "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/5.webp",
   "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/5.json",
   "attributes": [
     {
       "trait_type": "Model",
-      "value": "45"
+      "value": "20"
     },
     {
       "trait_type": "Symbol",
-      "value": "Twin Peaks"
+      "value": "Cap"
     },
     {
       "trait_type": "Backdrop",
-      "value": "Dark Lilac"
+      "value": "Satin Gold"
     }
   ]
 }

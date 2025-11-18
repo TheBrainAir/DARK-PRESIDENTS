@@ -1,20 +1,20 @@
 {
-  "description": "DARK PRESIDENT #30",
+  "description": "DARK PRESIDENT #30 — a procedurally generated figure featuring the 156 model, the Pegasus symbol, and a Sapphire backdrop.",
   "name": "DARK PRESIDENT #30",
   "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/30.webp",
   "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/30.json",
   "attributes": [
     {
       "trait_type": "Model",
-      "value": "79"
+      "value": "156"
     },
     {
       "trait_type": "Symbol",
-      "value": "Sakura"
+      "value": "Pegasus"
     },
     {
       "trait_type": "Backdrop",
-      "value": "Jade Green"
+      "value": "Sapphire"
     }
   ]
 }

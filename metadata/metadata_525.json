@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #525 — a procedurally generated figure featuring the 126 model, the Cupcake symbol, and a Strawberry backdrop.",
+  "name": "DARK PRESIDENT #525",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/525.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/525.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "126"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Cupcake"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Strawberry"
+    }
+  ]
+}

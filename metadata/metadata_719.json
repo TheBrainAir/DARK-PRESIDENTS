@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #719 — a procedurally generated figure featuring the 141 model, the Champagne symbol, and a Grape backdrop.",
+  "name": "DARK PRESIDENT #719",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/719.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/719.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "141"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Champagne"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Grape"
+    }
+  ]
+}

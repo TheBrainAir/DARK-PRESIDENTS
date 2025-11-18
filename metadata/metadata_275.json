@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #275 — a procedurally generated figure featuring the 153 model, the Cupcake symbol, and a Roman Silver backdrop.",
+  "name": "DARK PRESIDENT #275",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/275.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/275.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "153"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Cupcake"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Roman Silver"
+    }
+  ]
+}

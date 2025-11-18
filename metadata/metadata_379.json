@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #379 — a procedurally generated figure featuring the 91 model, the Chili Pepper symbol, and a Silver Blue backdrop.",
+  "name": "DARK PRESIDENT #379",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/379.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/379.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "91"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Chili Pepper"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Silver Blue"
+    }
+  ]
+}

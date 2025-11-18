@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #515 — a procedurally generated figure featuring the 100 model, the Sword symbol, and a Malachite backdrop.",
+  "name": "DARK PRESIDENT #515",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/515.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/515.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "100"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Sword"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Malachite"
+    }
+  ]
+}

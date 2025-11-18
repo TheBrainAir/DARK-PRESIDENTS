@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #208 — a procedurally generated figure featuring the 67 model, the Hand of God symbol, and a Coral Red backdrop.",
+  "name": "DARK PRESIDENT #208",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/208.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/208.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "67"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Hand of God"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Coral Red"
+    }
+  ]
+}

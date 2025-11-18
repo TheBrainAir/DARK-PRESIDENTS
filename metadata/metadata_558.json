@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #558 — a procedurally generated figure featuring the 116 model, the Fleur-de-lis symbol, and a Emerald backdrop.",
+  "name": "DARK PRESIDENT #558",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/558.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/558.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "116"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Fleur-de-lis"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Emerald"
+    }
+  ]
+}

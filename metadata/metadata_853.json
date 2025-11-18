@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #853 — a procedurally generated figure featuring the 214 model, the Crystal Ball symbol, and a Cyberpunk backdrop.",
+  "name": "DARK PRESIDENT #853",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/853.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/853.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "214"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Crystal Ball"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Cyberpunk"
+    }
+  ]
+}

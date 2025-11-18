@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #355 — a procedurally generated figure featuring the 175 model, the Okami Wolf symbol, and a Fandango backdrop.",
+  "name": "DARK PRESIDENT #355",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/355.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/355.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "175"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Okami Wolf"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Fandango"
+    }
+  ]
+}

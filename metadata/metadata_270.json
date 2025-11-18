@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #270 — a procedurally generated figure featuring the 100 model, the Knight symbol, and a Lemongrass backdrop.",
+  "name": "DARK PRESIDENT #270",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/270.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/270.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "100"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Knight"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Lemongrass"
+    }
+  ]
+}

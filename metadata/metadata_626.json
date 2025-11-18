@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #626 — a procedurally generated figure featuring the 206 model, the Guitar symbol, and a Electric Purple backdrop.",
+  "name": "DARK PRESIDENT #626",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/626.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/626.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "206"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Guitar"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Electric Purple"
+    }
+  ]
+}

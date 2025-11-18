@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #522 — a procedurally generated figure featuring the 152 model, the Mafdet symbol, and a Turquoise backdrop.",
+  "name": "DARK PRESIDENT #522",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/522.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/522.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "152"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Mafdet"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Turquoise"
+    }
+  ]
+}

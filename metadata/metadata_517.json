@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #517 — a procedurally generated figure featuring the 39 model, the Tree of Life symbol, and a Carrot Juice backdrop.",
+  "name": "DARK PRESIDENT #517",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/517.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/517.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "39"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Tree of Life"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Carrot Juice"
+    }
+  ]
+}

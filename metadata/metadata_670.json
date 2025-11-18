@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #670 — a procedurally generated figure featuring the 23 model, the Sword symbol, and a Coral Red backdrop.",
+  "name": "DARK PRESIDENT #670",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/670.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/670.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "23"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Sword"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Coral Red"
+    }
+  ]
+}

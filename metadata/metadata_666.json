@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #666 — a procedurally generated figure featuring the 160 model, the Cheese symbol, and a Light Olive backdrop.",
+  "name": "DARK PRESIDENT #666",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/666.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/666.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "160"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Cheese"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Light Olive"
+    }
+  ]
+}

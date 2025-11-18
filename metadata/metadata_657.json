@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #657 — a procedurally generated figure featuring the 167 model, the Gear symbol, and a Ivory White backdrop.",
+  "name": "DARK PRESIDENT #657",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/657.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/657.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "167"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Gear"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Ivory White"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #445 — a procedurally generated figure featuring the 37 model, the Money Bag symbol, and a Battleship Grey backdrop.",
+  "name": "DARK PRESIDENT #445",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/445.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/445.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "37"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Money Bag"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Battleship Grey"
+    }
+  ]
+}

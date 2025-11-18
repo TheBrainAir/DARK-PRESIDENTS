@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #257 — a procedurally generated figure featuring the 50 model, the Diamonds symbol, and a Pistachio backdrop.",
+  "name": "DARK PRESIDENT #257",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/257.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/257.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "50"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Diamonds"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Pistachio"
+    }
+  ]
+}

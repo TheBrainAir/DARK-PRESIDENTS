@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #511 — a procedurally generated figure featuring the 44 model, the Cap symbol, and a Satin Gold backdrop.",
+  "name": "DARK PRESIDENT #511",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/511.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/511.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "44"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Satin Gold"
+    }
+  ]
+}

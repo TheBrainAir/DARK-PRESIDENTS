@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #226 — a procedurally generated figure featuring the 23 model, the Heart Balloon symbol, and a Battleship Grey backdrop.",
+  "name": "DARK PRESIDENT #226",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/226.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/226.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "23"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Heart Balloon"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Battleship Grey"
+    }
+  ]
+}

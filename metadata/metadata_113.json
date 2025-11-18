@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #113 — a procedurally generated figure featuring the 176 model, the Love Letter symbol, and a Caramel backdrop.",
+  "name": "DARK PRESIDENT #113",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/113.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/113.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "176"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Love Letter"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Caramel"
+    }
+  ]
+}

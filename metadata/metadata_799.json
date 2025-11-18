@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #799 — a procedurally generated figure featuring the 94 model, the Birthday Cake symbol, and a Pine Green backdrop.",
+  "name": "DARK PRESIDENT #799",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/799.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/799.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "94"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Birthday Cake"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Pine Green"
+    }
+  ]
+}

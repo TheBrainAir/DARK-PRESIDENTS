@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #110 — a procedurally generated figure featuring the 171 model, the Shield symbol, and a Azure Blue backdrop.",
+  "name": "DARK PRESIDENT #110",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/110.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/110.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "171"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Shield"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Azure Blue"
+    }
+  ]
+}

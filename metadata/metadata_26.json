@@ -1,16 +1,16 @@
 {
-  "description": "DARK PRESIDENT #26",
+  "description": "DARK PRESIDENT #26 — a procedurally generated figure featuring the 97 model, the The Eye symbol, and a Emerald backdrop.",
   "name": "DARK PRESIDENT #26",
   "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/26.webp",
   "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/26.json",
   "attributes": [
     {
       "trait_type": "Model",
-      "value": "106"
+      "value": "97"
     },
     {
       "trait_type": "Symbol",
-      "value": "Okami Wolf"
+      "value": "The Eye"
     },
     {
       "trait_type": "Backdrop",

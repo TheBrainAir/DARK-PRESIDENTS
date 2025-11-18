@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #218 — a procedurally generated figure featuring the 33 model, the Cat Mask symbol, and a Copper backdrop.",
+  "name": "DARK PRESIDENT #218",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/218.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/218.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "33"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Cat Mask"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Copper"
+    }
+  ]
+}

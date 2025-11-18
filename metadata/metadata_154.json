@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #154 — a procedurally generated figure featuring the 97 model, the Candle symbol, and a Pacific Cyan backdrop.",
+  "name": "DARK PRESIDENT #154",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/154.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/154.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "97"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Candle"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Pacific Cyan"
+    }
+  ]
+}

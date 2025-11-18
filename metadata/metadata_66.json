@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #66 — a procedurally generated figure featuring the 62 model, the Bell Pepper symbol, and a Hunter Green backdrop.",
+  "name": "DARK PRESIDENT #66",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/66.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/66.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "62"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Bell Pepper"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Hunter Green"
+    }
+  ]
+}

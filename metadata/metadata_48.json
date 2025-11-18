@@ -1,20 +1,20 @@
 {
-  "description": "DARK PRESIDENT #48",
+  "description": "DARK PRESIDENT #48 — a procedurally generated figure featuring the 136 model, the Coin symbol, and a Indigo Dye backdrop.",
   "name": "DARK PRESIDENT #48",
   "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/48.webp",
   "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/48.json",
   "attributes": [
     {
       "trait_type": "Model",
-      "value": "64"
+      "value": "136"
     },
     {
       "trait_type": "Symbol",
-      "value": "PC Mouse"
+      "value": "Coin"
     },
     {
       "trait_type": "Backdrop",
-      "value": "Hunter Green"
+      "value": "Indigo Dye"
     }
   ]
 }

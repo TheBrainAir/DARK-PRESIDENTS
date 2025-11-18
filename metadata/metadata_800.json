@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #800 — a procedurally generated figure featuring the 203 model, the Pegasus symbol, and a Malachite backdrop.",
+  "name": "DARK PRESIDENT #800",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/800.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/800.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "203"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Pegasus"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Malachite"
+    }
+  ]
+}

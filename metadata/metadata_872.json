@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #872 — a procedurally generated figure featuring the 119 model, the Dice symbol, and a Steel Grey backdrop.",
+  "name": "DARK PRESIDENT #872",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/872.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/872.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "119"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Dice"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Steel Grey"
+    }
+  ]
+}

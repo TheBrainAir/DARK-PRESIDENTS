@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #155 — a procedurally generated figure featuring the 159 model, the Pencil symbol, and a Cappuccino backdrop.",
+  "name": "DARK PRESIDENT #155",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/155.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/155.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "159"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Pencil"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Cappuccino"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #702 — a procedurally generated figure featuring the 89 model, the Turtle symbol, and a Steel Grey backdrop.",
+  "name": "DARK PRESIDENT #702",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/702.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/702.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "89"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Turtle"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Steel Grey"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #340 — a procedurally generated figure featuring the 18 model, the Melon symbol, and a Khaki Green backdrop.",
+  "name": "DARK PRESIDENT #340",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/340.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/340.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "18"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Melon"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Khaki Green"
+    }
+  ]
+}

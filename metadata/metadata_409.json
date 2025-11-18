@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #409 — a procedurally generated figure featuring the 84 model, the Love Lock symbol, and a Light Olive backdrop.",
+  "name": "DARK PRESIDENT #409",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/409.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/409.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "84"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Love Lock"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Light Olive"
+    }
+  ]
+}

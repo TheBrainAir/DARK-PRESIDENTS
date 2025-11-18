@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #722 — a procedurally generated figure featuring the 155 model, the Double Bed symbol, and a Mint Green backdrop.",
+  "name": "DARK PRESIDENT #722",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/722.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/722.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "155"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Double Bed"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Mint Green"
+    }
+  ]
+}

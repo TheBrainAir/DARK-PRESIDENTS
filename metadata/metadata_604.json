@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #604 — a procedurally generated figure featuring the 33 model, the Key symbol, and a Roman Silver backdrop.",
+  "name": "DARK PRESIDENT #604",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/604.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/604.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "33"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Key"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Roman Silver"
+    }
+  ]
+}

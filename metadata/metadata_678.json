@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #678 — a procedurally generated figure featuring the 199 model, the Mushroom symbol, and a Dark Lilac backdrop.",
+  "name": "DARK PRESIDENT #678",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/678.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/678.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "199"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Mushroom"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Dark Lilac"
+    }
+  ]
+}

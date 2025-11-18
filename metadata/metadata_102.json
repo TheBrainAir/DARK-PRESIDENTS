@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #102 — a procedurally generated figure featuring the 106 model, the Alkonost symbol, and a Mystic Pearl backdrop.",
+  "name": "DARK PRESIDENT #102",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/102.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/102.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "106"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Alkonost"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Mystic Pearl"
+    }
+  ]
+}

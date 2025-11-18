@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #305 — a procedurally generated figure featuring the 15 model, the Sea Horse symbol, and a Roman Silver backdrop.",
+  "name": "DARK PRESIDENT #305",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/305.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/305.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "15"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Sea Horse"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Roman Silver"
+    }
+  ]
+}

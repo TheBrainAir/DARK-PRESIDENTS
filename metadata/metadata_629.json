@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #629 — a procedurally generated figure featuring the 56 model, the Lovebirds symbol, and a Malachite backdrop.",
+  "name": "DARK PRESIDENT #629",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/629.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/629.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "56"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Lovebirds"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Malachite"
+    }
+  ]
+}

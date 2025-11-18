@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #696 — a procedurally generated figure featuring the 11 model, the Love Letter symbol, and a Pure Gold backdrop.",
+  "name": "DARK PRESIDENT #696",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/696.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/696.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "11"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Love Letter"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Pure Gold"
+    }
+  ]
+}

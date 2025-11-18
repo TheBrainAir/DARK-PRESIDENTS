@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #337 — a procedurally generated figure featuring the 110 model, the Cash symbol, and a Mystic Pearl backdrop.",
+  "name": "DARK PRESIDENT #337",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/337.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/337.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "110"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Cash"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Mystic Pearl"
+    }
+  ]
+}

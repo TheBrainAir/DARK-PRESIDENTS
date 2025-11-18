@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #832 — a procedurally generated figure featuring the 194 model, the The Eye symbol, and a Cobalt Blue backdrop.",
+  "name": "DARK PRESIDENT #832",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/832.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/832.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "194"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "The Eye"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Cobalt Blue"
+    }
+  ]
+}

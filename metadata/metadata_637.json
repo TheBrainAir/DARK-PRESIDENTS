@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #637 — a procedurally generated figure featuring the 137 model, the Doberman symbol, and a Chestnut backdrop.",
+  "name": "DARK PRESIDENT #637",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/637.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/637.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "137"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Doberman"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Chestnut"
+    }
+  ]
+}

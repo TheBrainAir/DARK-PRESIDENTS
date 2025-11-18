@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #597 — a procedurally generated figure featuring the 87 model, the Heartbeat symbol, and a Black backdrop.",
+  "name": "DARK PRESIDENT #597",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/597.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/597.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "87"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Heartbeat"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Black"
+    }
+  ]
+}

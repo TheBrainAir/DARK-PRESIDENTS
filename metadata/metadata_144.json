@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #144 — a procedurally generated figure featuring the 80 model, the Pyramid symbol, and a Lavender backdrop.",
+  "name": "DARK PRESIDENT #144",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/144.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/144.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "80"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Pyramid"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Lavender"
+    }
+  ]
+}

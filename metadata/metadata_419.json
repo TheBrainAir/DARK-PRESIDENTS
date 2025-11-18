@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #419 — a procedurally generated figure featuring the 146 model, the Red Deer symbol, and a Malachite backdrop.",
+  "name": "DARK PRESIDENT #419",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/419.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/419.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "146"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Red Deer"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Malachite"
+    }
+  ]
+}

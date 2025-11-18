@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #685 — a procedurally generated figure featuring the 36 model, the Nordic Wolf symbol, and a Light Olive backdrop.",
+  "name": "DARK PRESIDENT #685",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/685.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/685.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "36"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Nordic Wolf"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Light Olive"
+    }
+  ]
+}

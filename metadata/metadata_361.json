@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #361 — a procedurally generated figure featuring the 199 model, the Guitar symbol, and a Strawberry backdrop.",
+  "name": "DARK PRESIDENT #361",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/361.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/361.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "199"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Guitar"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Strawberry"
+    }
+  ]
+}

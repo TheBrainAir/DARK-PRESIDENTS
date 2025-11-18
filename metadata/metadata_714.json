@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #714 — a procedurally generated figure featuring the 23 model, the Wreath symbol, and a Cobalt Blue backdrop.",
+  "name": "DARK PRESIDENT #714",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/714.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/714.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "23"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Wreath"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Cobalt Blue"
+    }
+  ]
+}

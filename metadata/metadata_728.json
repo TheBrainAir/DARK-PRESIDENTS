@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #728 — a procedurally generated figure featuring the 15 model, the Lovebirds symbol, and a Lemongrass backdrop.",
+  "name": "DARK PRESIDENT #728",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/728.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/728.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "15"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Lovebirds"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Lemongrass"
+    }
+  ]
+}

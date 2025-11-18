@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #329 — a procedurally generated figure featuring the 70 model, the Key symbol, and a Jade Green backdrop.",
+  "name": "DARK PRESIDENT #329",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/329.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/329.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "70"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Key"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Jade Green"
+    }
+  ]
+}

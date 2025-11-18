@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #774 — a procedurally generated figure featuring the 211 model, the Book symbol, and a Mystic Pearl backdrop.",
+  "name": "DARK PRESIDENT #774",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/774.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/774.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "211"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Book"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Mystic Pearl"
+    }
+  ]
+}

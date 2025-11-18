@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #747 — a procedurally generated figure featuring the 202 model, the Fleur-de-lis symbol, and a Strawberry backdrop.",
+  "name": "DARK PRESIDENT #747",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/747.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/747.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "202"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Fleur-de-lis"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Strawberry"
+    }
+  ]
+}

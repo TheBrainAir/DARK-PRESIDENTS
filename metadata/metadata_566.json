@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #566 — a procedurally generated figure featuring the 35 model, the Fenrir symbol, and a Pine Green backdrop.",
+  "name": "DARK PRESIDENT #566",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/566.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/566.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "35"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Fenrir"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Pine Green"
+    }
+  ]
+}

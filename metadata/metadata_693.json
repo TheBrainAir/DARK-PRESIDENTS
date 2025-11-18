@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #693 — a procedurally generated figure featuring the 193 model, the Musical Note symbol, and a Mystic Pearl backdrop.",
+  "name": "DARK PRESIDENT #693",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/693.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/693.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "193"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Musical Note"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Mystic Pearl"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #381 — a procedurally generated figure featuring the 20 model, the Gingerbread symbol, and a Chocolate backdrop.",
+  "name": "DARK PRESIDENT #381",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/381.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/381.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "20"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Gingerbread"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Chocolate"
+    }
+  ]
+}

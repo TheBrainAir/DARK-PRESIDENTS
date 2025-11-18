@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #187 — a procedurally generated figure featuring the 129 model, the Cupid symbol, and a Fandango backdrop.",
+  "name": "DARK PRESIDENT #187",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/187.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/187.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "129"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Cupid"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Fandango"
+    }
+  ]
+}

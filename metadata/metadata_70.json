@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #70 — a procedurally generated figure featuring the 65 model, the White Deer symbol, and a Coral Red backdrop.",
+  "name": "DARK PRESIDENT #70",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/70.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/70.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "65"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "White Deer"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Coral Red"
+    }
+  ]
+}

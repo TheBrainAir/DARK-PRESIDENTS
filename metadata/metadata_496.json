@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #496 — a procedurally generated figure featuring the 43 model, the Coconut symbol, and a Lemongrass backdrop.",
+  "name": "DARK PRESIDENT #496",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/496.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/496.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "43"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Coconut"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Lemongrass"
+    }
+  ]
+}

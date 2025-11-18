@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #658 — a procedurally generated figure featuring the 195 model, the Flamingo symbol, and a Caramel backdrop.",
+  "name": "DARK PRESIDENT #658",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/658.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/658.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "195"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Flamingo"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Caramel"
+    }
+  ]
+}

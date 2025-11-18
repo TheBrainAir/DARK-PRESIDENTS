@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #188 — a procedurally generated figure featuring the 141 model, the Diamonds symbol, and a Chestnut backdrop.",
+  "name": "DARK PRESIDENT #188",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/188.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/188.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "141"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Diamonds"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Chestnut"
+    }
+  ]
+}

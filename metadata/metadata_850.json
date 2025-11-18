@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #850 — a procedurally generated figure featuring the 188 model, the Loving Heart symbol, and a Light Olive backdrop.",
+  "name": "DARK PRESIDENT #850",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/850.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/850.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "188"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Loving Heart"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Light Olive"
+    }
+  ]
+}

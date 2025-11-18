@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #753 — a procedurally generated figure featuring the 30 model, the Diamonds symbol, and a Indigo Dye backdrop.",
+  "name": "DARK PRESIDENT #753",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/753.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/753.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "30"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Diamonds"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Indigo Dye"
+    }
+  ]
+}

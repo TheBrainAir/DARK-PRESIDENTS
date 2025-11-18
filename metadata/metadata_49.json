@@ -1,20 +1,20 @@
 {
-  "description": "DARK PRESIDENT #49",
+  "description": "DARK PRESIDENT #49 — a procedurally generated figure featuring the 162 model, the Lovebirds symbol, and a Black backdrop.",
   "name": "DARK PRESIDENT #49",
   "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/49.webp",
   "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/49.json",
   "attributes": [
     {
       "trait_type": "Model",
-      "value": "84"
+      "value": "162"
     },
     {
       "trait_type": "Symbol",
-      "value": "Blossom"
+      "value": "Lovebirds"
     },
     {
       "trait_type": "Backdrop",
-      "value": "Pacific Cyan"
+      "value": "Black"
     }
   ]
 }

@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #540 — a procedurally generated figure featuring the 9 model, the Coat of Arms symbol, and a Battleship Grey backdrop.",
+  "name": "DARK PRESIDENT #540",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/540.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/540.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "9"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Coat of Arms"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Battleship Grey"
+    }
+  ]
+}

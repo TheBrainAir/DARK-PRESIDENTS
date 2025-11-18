@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #410 — a procedurally generated figure featuring the 41 model, the Seahorse symbol, and a Navy Blue backdrop.",
+  "name": "DARK PRESIDENT #410",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/410.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/410.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "41"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Seahorse"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Navy Blue"
+    }
+  ]
+}

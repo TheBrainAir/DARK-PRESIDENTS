@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #781 — a procedurally generated figure featuring the 211 model, the Book symbol, and a Burgundy backdrop.",
+  "name": "DARK PRESIDENT #781",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/781.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/781.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "211"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Book"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Burgundy"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #311 — a procedurally generated figure featuring the 216 model, the Plume symbol, and a Emerald backdrop.",
+  "name": "DARK PRESIDENT #311",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/311.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/311.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "216"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Plume"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Emerald"
+    }
+  ]
+}

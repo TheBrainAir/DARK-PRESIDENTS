@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #766 — a procedurally generated figure featuring the 39 model, the Genie Lamp symbol, and a Turquoise backdrop.",
+  "name": "DARK PRESIDENT #766",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/766.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/766.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "39"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Genie Lamp"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Turquoise"
+    }
+  ]
+}

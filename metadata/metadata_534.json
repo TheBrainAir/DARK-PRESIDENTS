@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #534 — a procedurally generated figure featuring the 33 model, the Cherry symbol, and a Pine Green backdrop.",
+  "name": "DARK PRESIDENT #534",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/534.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/534.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "33"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Cherry"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Pine Green"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #776 — a procedurally generated figure featuring the 178 model, the Gold symbol, and a Ivory White backdrop.",
+  "name": "DARK PRESIDENT #776",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/776.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/776.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "178"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Ivory White"
+    }
+  ]
+}

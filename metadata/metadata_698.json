@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #698 — a procedurally generated figure featuring the 63 model, the Bastet symbol, and a Electric Purple backdrop.",
+  "name": "DARK PRESIDENT #698",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/698.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/698.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "63"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Bastet"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Electric Purple"
+    }
+  ]
+}

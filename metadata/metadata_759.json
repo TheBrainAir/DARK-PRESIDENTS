@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #759 — a procedurally generated figure featuring the 48 model, the Unicorn Head symbol, and a Coral Red backdrop.",
+  "name": "DARK PRESIDENT #759",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/759.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/759.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "48"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Unicorn Head"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Coral Red"
+    }
+  ]
+}

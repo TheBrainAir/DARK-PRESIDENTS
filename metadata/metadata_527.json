@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #527 — a procedurally generated figure featuring the 68 model, the Eagle symbol, and a Pure Gold backdrop.",
+  "name": "DARK PRESIDENT #527",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/527.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/527.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "68"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Eagle"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Pure Gold"
+    }
+  ]
+}

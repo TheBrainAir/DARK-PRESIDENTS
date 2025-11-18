@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #879 — a procedurally generated figure featuring the 65 model, the Strawberry symbol, and a Strawberry backdrop.",
+  "name": "DARK PRESIDENT #879",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/879.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/879.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "65"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Strawberry"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Strawberry"
+    }
+  ]
+}

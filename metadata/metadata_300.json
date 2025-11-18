@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #300 — a procedurally generated figure featuring the 64 model, the Sparks symbol, and a Grape backdrop.",
+  "name": "DARK PRESIDENT #300",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/300.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/300.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "64"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Sparks"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Grape"
+    }
+  ]
+}

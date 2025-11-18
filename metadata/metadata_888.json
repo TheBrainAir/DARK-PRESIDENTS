@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #888 — a procedurally generated figure featuring the 24 model, the Moon Eagle symbol, and a Pine Green backdrop.",
+  "name": "DARK PRESIDENT #888",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/888.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/888.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "24"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Moon Eagle"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Pine Green"
+    }
+  ]
+}

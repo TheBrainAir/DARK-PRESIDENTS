@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #664 — a procedurally generated figure featuring the 24 model, the Crystal Ball symbol, and a Cyberpunk backdrop.",
+  "name": "DARK PRESIDENT #664",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/664.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/664.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "24"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Crystal Ball"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Cyberpunk"
+    }
+  ]
+}

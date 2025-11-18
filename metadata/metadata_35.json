@@ -1,20 +1,20 @@
 {
-  "description": "DARK PRESIDENT #35",
+  "description": "DARK PRESIDENT #35 — a procedurally generated figure featuring the 28 model, the Lion Head symbol, and a Amber backdrop.",
   "name": "DARK PRESIDENT #35",
   "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/35.webp",
   "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/35.json",
   "attributes": [
     {
       "trait_type": "Model",
-      "value": "7"
+      "value": "28"
     },
     {
       "trait_type": "Symbol",
-      "value": "Love Lock"
+      "value": "Lion Head"
     },
     {
       "trait_type": "Backdrop",
-      "value": "Indigo Dye"
+      "value": "Amber"
     }
   ]
 }

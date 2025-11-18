@@ -1,20 +1,20 @@
 {
-  "description": "DARK PRESIDENT #50",
+  "description": "DARK PRESIDENT #50 — a procedurally generated figure featuring the 143 model, the Crown symbol, and a Orange backdrop.",
   "name": "DARK PRESIDENT #50",
   "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/50.webp",
   "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/50.json",
   "attributes": [
     {
       "trait_type": "Model",
-      "value": "199"
+      "value": "143"
     },
     {
       "trait_type": "Symbol",
-      "value": "Pyramid"
+      "value": "Crown"
     },
     {
       "trait_type": "Backdrop",
-      "value": "Indigo Dye"
+      "value": "Orange"
     }
   ]
 }

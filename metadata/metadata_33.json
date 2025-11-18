@@ -1,20 +1,20 @@
 {
-  "description": "DARK PRESIDENT #33",
+  "description": "DARK PRESIDENT #33 — a procedurally generated figure featuring the 104 model, the Rabbit symbol, and a Malachite backdrop.",
   "name": "DARK PRESIDENT #33",
   "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/33.webp",
   "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/33.json",
   "attributes": [
     {
       "trait_type": "Model",
-      "value": "10"
+      "value": "104"
     },
     {
       "trait_type": "Symbol",
-      "value": "Pencil"
+      "value": "Rabbit"
     },
     {
       "trait_type": "Backdrop",
-      "value": "Sky Blue"
+      "value": "Malachite"
     }
   ]
 }

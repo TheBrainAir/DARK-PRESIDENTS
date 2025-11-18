@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #87 — a procedurally generated figure featuring the 161 model, the Broken Heart symbol, and a Amber backdrop.",
+  "name": "DARK PRESIDENT #87",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/87.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/87.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "161"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Broken Heart"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Amber"
+    }
+  ]
+}

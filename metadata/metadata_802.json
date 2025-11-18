@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #802 — a procedurally generated figure featuring the 154 model, the Bunny symbol, and a Khaki Green backdrop.",
+  "name": "DARK PRESIDENT #802",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/802.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/802.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "154"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Bunny"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Khaki Green"
+    }
+  ]
+}

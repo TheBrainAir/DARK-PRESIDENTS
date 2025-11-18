@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #574 — a procedurally generated figure featuring the 53 model, the Dessert symbol, and a Copper backdrop.",
+  "name": "DARK PRESIDENT #574",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/574.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/574.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "53"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Dessert"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Copper"
+    }
+  ]
+}

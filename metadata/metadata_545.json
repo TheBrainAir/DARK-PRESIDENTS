@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #545 — a procedurally generated figure featuring the 200 model, the Flamingo symbol, and a Jade Green backdrop.",
+  "name": "DARK PRESIDENT #545",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/545.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/545.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "200"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Flamingo"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Jade Green"
+    }
+  ]
+}

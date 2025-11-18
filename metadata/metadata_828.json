@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #828 — a procedurally generated figure featuring the 89 model, the Alkonost symbol, and a Ivory White backdrop.",
+  "name": "DARK PRESIDENT #828",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/828.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/828.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "89"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Alkonost"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Ivory White"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #249 — a procedurally generated figure featuring the 36 model, the Star Crown symbol, and a Platinum backdrop.",
+  "name": "DARK PRESIDENT #249",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/249.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/249.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "36"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Star Crown"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Platinum"
+    }
+  ]
+}

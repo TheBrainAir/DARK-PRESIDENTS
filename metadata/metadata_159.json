@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #159 — a procedurally generated figure featuring the 186 model, the Carambola symbol, and a Khaki Green backdrop.",
+  "name": "DARK PRESIDENT #159",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/159.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/159.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "186"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Carambola"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Khaki Green"
+    }
+  ]
+}

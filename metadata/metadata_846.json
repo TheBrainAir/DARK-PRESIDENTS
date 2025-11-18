@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #846 — a procedurally generated figure featuring the 23 model, the Flirty Message symbol, and a Electric Indigo backdrop.",
+  "name": "DARK PRESIDENT #846",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/846.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/846.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "23"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Flirty Message"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Electric Indigo"
+    }
+  ]
+}

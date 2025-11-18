@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #460 — a procedurally generated figure featuring the 195 model, the Okami Wolf symbol, and a Cobalt Blue backdrop.",
+  "name": "DARK PRESIDENT #460",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/460.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/460.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "195"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Okami Wolf"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Cobalt Blue"
+    }
+  ]
+}

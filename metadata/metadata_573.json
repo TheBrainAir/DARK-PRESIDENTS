@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #573 — a procedurally generated figure featuring the 197 model, the Aubergine symbol, and a Persimmon backdrop.",
+  "name": "DARK PRESIDENT #573",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/573.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/573.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "197"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Aubergine"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Persimmon"
+    }
+  ]
+}

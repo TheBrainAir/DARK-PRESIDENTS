@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #843 — a procedurally generated figure featuring the 19 model, the Cat Mask symbol, and a Navy Blue backdrop.",
+  "name": "DARK PRESIDENT #843",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/843.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/843.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "19"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Cat Mask"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Navy Blue"
+    }
+  ]
+}

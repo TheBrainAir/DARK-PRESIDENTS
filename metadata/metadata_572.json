@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #572 — a procedurally generated figure featuring the 112 model, the Okami Wolf symbol, and a English Violet backdrop.",
+  "name": "DARK PRESIDENT #572",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/572.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/572.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "112"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Okami Wolf"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "English Violet"
+    }
+  ]
+}

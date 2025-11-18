@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #878 — a procedurally generated figure featuring the 179 model, the Cocktail symbol, and a Sapphire backdrop.",
+  "name": "DARK PRESIDENT #878",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/878.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/878.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "179"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Cocktail"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Sapphire"
+    }
+  ]
+}

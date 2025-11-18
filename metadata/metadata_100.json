@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #100 — a procedurally generated figure featuring the 45 model, the Flirty Message symbol, and a Sky Blue backdrop.",
+  "name": "DARK PRESIDENT #100",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/100.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/100.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "45"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Flirty Message"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Sky Blue"
+    }
+  ]
+}

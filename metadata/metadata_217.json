@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #217 — a procedurally generated figure featuring the 84 model, the Shield symbol, and a Electric Indigo backdrop.",
+  "name": "DARK PRESIDENT #217",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/217.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/217.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "84"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Shield"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Electric Indigo"
+    }
+  ]
+}

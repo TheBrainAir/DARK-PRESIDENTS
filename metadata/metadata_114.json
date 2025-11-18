@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #114 — a procedurally generated figure featuring the 149 model, the Flower symbol, and a Battleship Grey backdrop.",
+  "name": "DARK PRESIDENT #114",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/114.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/114.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "149"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Flower"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Battleship Grey"
+    }
+  ]
+}

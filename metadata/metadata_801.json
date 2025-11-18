@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #801 — a procedurally generated figure featuring the 134 model, the Thief symbol, and a Fandango backdrop.",
+  "name": "DARK PRESIDENT #801",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/801.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/801.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "134"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Thief"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Fandango"
+    }
+  ]
+}

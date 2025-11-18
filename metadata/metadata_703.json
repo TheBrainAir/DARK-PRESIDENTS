@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #703 — a procedurally generated figure featuring the 183 model, the Toilet symbol, and a Silver Blue backdrop.",
+  "name": "DARK PRESIDENT #703",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/703.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/703.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "183"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Toilet"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Silver Blue"
+    }
+  ]
+}

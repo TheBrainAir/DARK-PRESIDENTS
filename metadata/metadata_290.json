@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #290 — a procedurally generated figure featuring the 192 model, the Potion symbol, and a Grape backdrop.",
+  "name": "DARK PRESIDENT #290",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/290.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/290.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "192"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Potion"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Grape"
+    }
+  ]
+}

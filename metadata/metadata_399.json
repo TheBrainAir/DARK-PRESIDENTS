@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #399 — a procedurally generated figure featuring the 148 model, the Octopus symbol, and a Rosewood backdrop.",
+  "name": "DARK PRESIDENT #399",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/399.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/399.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "148"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Octopus"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Rosewood"
+    }
+  ]
+}

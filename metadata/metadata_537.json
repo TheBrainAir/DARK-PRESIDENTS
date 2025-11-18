@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #537 — a procedurally generated figure featuring the 110 model, the Shooting Star symbol, and a Turquoise backdrop.",
+  "name": "DARK PRESIDENT #537",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/537.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/537.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "110"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Shooting Star"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Turquoise"
+    }
+  ]
+}

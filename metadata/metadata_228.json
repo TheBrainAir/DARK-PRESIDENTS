@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #228 — a procedurally generated figure featuring the 37 model, the Acorn symbol, and a Navy Blue backdrop.",
+  "name": "DARK PRESIDENT #228",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/228.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/228.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "37"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Acorn"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Navy Blue"
+    }
+  ]
+}

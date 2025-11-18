@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #96 — a procedurally generated figure featuring the 9 model, the Water Drops symbol, and a French Blue backdrop.",
+  "name": "DARK PRESIDENT #96",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/96.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/96.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "9"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Water Drops"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "French Blue"
+    }
+  ]
+}

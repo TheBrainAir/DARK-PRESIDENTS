@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #623 — a procedurally generated figure featuring the 215 model, the Carrot symbol, and a Carrot Juice backdrop.",
+  "name": "DARK PRESIDENT #623",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/623.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/623.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "215"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Carrot"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Carrot Juice"
+    }
+  ]
+}

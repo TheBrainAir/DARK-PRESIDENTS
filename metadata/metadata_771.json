@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #771 — a procedurally generated figure featuring the 212 model, the High Heels symbol, and a Pistachio backdrop.",
+  "name": "DARK PRESIDENT #771",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/771.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/771.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "212"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "High Heels"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Pistachio"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #860 — a procedurally generated figure featuring the 17 model, the Carrot symbol, and a Steel Grey backdrop.",
+  "name": "DARK PRESIDENT #860",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/860.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/860.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "17"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Carrot"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Steel Grey"
+    }
+  ]
+}

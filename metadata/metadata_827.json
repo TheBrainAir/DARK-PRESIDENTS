@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #827 — a procedurally generated figure featuring the 42 model, the Ink Pen symbol, and a Satin Gold backdrop.",
+  "name": "DARK PRESIDENT #827",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/827.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/827.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "42"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Ink Pen"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Satin Gold"
+    }
+  ]
+}

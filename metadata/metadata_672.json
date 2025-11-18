@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #672 — a procedurally generated figure featuring the 71 model, the Tooth symbol, and a French Blue backdrop.",
+  "name": "DARK PRESIDENT #672",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/672.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/672.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "71"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Tooth"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "French Blue"
+    }
+  ]
+}

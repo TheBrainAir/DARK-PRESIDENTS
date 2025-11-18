@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #448 — a procedurally generated figure featuring the 165 model, the Stilettos symbol, and a Mint Green backdrop.",
+  "name": "DARK PRESIDENT #448",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/448.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/448.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "165"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Stilettos"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Mint Green"
+    }
+  ]
+}

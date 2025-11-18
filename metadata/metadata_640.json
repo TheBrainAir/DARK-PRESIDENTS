@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #640 — a procedurally generated figure featuring the 129 model, the Cheese symbol, and a Indigo Dye backdrop.",
+  "name": "DARK PRESIDENT #640",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/640.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/640.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "129"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Cheese"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Indigo Dye"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #571 — a procedurally generated figure featuring the 172 model, the Ink Pen symbol, and a Desert Sand backdrop.",
+  "name": "DARK PRESIDENT #571",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/571.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/571.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "172"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Ink Pen"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Desert Sand"
+    }
+  ]
+}

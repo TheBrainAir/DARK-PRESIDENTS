@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #483 — a procedurally generated figure featuring the 57 model, the Crusader symbol, and a Burgundy backdrop.",
+  "name": "DARK PRESIDENT #483",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/483.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/483.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "57"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Crusader"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Burgundy"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #638 — a procedurally generated figure featuring the 191 model, the Heartbeat symbol, and a Amber backdrop.",
+  "name": "DARK PRESIDENT #638",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/638.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/638.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "191"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Heartbeat"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Amber"
+    }
+  ]
+}

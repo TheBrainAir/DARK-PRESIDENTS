@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #689 — a procedurally generated figure featuring the 20 model, the Ring symbol, and a Rosewood backdrop.",
+  "name": "DARK PRESIDENT #689",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/689.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/689.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "20"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Ring"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Rosewood"
+    }
+  ]
+}

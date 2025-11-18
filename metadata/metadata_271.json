@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #271 — a procedurally generated figure featuring the 207 model, the Coin symbol, and a Onyx Black backdrop.",
+  "name": "DARK PRESIDENT #271",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/271.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/271.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "207"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Coin"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Onyx Black"
+    }
+  ]
+}

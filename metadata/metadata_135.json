@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #135 — a procedurally generated figure featuring the 180 model, the Pencil symbol, and a Electric Purple backdrop.",
+  "name": "DARK PRESIDENT #135",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/135.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/135.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "180"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Pencil"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Electric Purple"
+    }
+  ]
+}

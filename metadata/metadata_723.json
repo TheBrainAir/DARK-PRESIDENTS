@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #723 — a procedurally generated figure featuring the 120 model, the Mafdet symbol, and a Carrot Juice backdrop.",
+  "name": "DARK PRESIDENT #723",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/723.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/723.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "120"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Mafdet"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Carrot Juice"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #796 — a procedurally generated figure featuring the 151 model, the Ladybug symbol, and a Black backdrop.",
+  "name": "DARK PRESIDENT #796",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/796.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/796.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "151"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Ladybug"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Black"
+    }
+  ]
+}

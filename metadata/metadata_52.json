@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #52 — a procedurally generated figure featuring the 200 model, the Owl symbol, and a Persimmon backdrop.",
+  "name": "DARK PRESIDENT #52",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/52.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/52.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "200"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Owl"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Persimmon"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #479 — a procedurally generated figure featuring the 70 model, the Sprout symbol, and a Battleship Grey backdrop.",
+  "name": "DARK PRESIDENT #479",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/479.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/479.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "70"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Sprout"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Battleship Grey"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #74 — a procedurally generated figure featuring the 50 model, the Moon Eagle symbol, and a Light Olive backdrop.",
+  "name": "DARK PRESIDENT #74",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/74.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/74.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "50"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Moon Eagle"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Light Olive"
+    }
+  ]
+}

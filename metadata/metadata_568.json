@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #568 — a procedurally generated figure featuring the 3 model, the Flipper symbol, and a Moonstone backdrop.",
+  "name": "DARK PRESIDENT #568",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/568.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/568.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "3"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Flipper"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Moonstone"
+    }
+  ]
+}

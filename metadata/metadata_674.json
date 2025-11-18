@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #674 — a procedurally generated figure featuring the 89 model, the Bell Pepper symbol, and a Onyx Black backdrop.",
+  "name": "DARK PRESIDENT #674",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/674.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/674.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "89"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Bell Pepper"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Onyx Black"
+    }
+  ]
+}

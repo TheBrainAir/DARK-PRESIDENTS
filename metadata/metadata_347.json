@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #347 — a procedurally generated figure featuring the 54 model, the Pineapple symbol, and a Steel Grey backdrop.",
+  "name": "DARK PRESIDENT #347",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/347.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/347.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "54"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Pineapple"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Steel Grey"
+    }
+  ]
+}

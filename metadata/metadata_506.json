@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #506 — a procedurally generated figure featuring the 162 model, the Thief symbol, and a Raspberry backdrop.",
+  "name": "DARK PRESIDENT #506",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/506.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/506.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "162"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Thief"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Raspberry"
+    }
+  ]
+}

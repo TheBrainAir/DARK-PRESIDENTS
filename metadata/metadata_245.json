@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #245 — a procedurally generated figure featuring the 70 model, the Moose Head symbol, and a Pine Green backdrop.",
+  "name": "DARK PRESIDENT #245",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/245.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/245.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "70"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Moose Head"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Pine Green"
+    }
+  ]
+}

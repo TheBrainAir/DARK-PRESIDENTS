@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #82 — a procedurally generated figure featuring the 84 model, the Fish Skeleton symbol, and a Roman Silver backdrop.",
+  "name": "DARK PRESIDENT #82",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/82.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/82.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "84"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Fish Skeleton"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Roman Silver"
+    }
+  ]
+}

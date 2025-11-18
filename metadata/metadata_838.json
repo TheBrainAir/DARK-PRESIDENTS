@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #838 — a procedurally generated figure featuring the 6 model, the Plume symbol, and a Desert Sand backdrop.",
+  "name": "DARK PRESIDENT #838",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/838.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/838.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "6"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Plume"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Desert Sand"
+    }
+  ]
+}

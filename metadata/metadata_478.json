@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #478 — a procedurally generated figure featuring the 203 model, the Chest symbol, and a Pine Green backdrop.",
+  "name": "DARK PRESIDENT #478",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/478.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/478.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "203"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Chest"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Pine Green"
+    }
+  ]
+}

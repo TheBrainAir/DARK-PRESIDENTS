@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #377 — a procedurally generated figure featuring the 26 model, the Pegasus symbol, and a Jade Green backdrop.",
+  "name": "DARK PRESIDENT #377",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/377.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/377.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "26"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Pegasus"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Jade Green"
+    }
+  ]
+}

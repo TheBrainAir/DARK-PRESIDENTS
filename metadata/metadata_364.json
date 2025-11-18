@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #364 — a procedurally generated figure featuring the 51 model, the Romantic Cake symbol, and a Moonstone backdrop.",
+  "name": "DARK PRESIDENT #364",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/364.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/364.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "51"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Romantic Cake"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Moonstone"
+    }
+  ]
+}

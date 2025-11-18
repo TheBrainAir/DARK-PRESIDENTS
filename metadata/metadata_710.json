@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #710 — a procedurally generated figure featuring the 204 model, the Top Hat symbol, and a Copper backdrop.",
+  "name": "DARK PRESIDENT #710",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/710.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/710.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "204"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Top Hat"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Copper"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #780 — a procedurally generated figure featuring the 198 model, the Sumerian Bird symbol, and a Neon Blue backdrop.",
+  "name": "DARK PRESIDENT #780",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/780.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/780.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "198"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Sumerian Bird"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Neon Blue"
+    }
+  ]
+}

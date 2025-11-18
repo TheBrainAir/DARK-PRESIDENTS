@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #385 — a procedurally generated figure featuring the 142 model, the Carrot symbol, and a Navy Blue backdrop.",
+  "name": "DARK PRESIDENT #385",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/385.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/385.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "142"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Carrot"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Navy Blue"
+    }
+  ]
+}

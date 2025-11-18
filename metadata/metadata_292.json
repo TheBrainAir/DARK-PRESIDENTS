@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #292 — a procedurally generated figure featuring the 159 model, the Cherry symbol, and a Navy Blue backdrop.",
+  "name": "DARK PRESIDENT #292",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/292.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/292.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "159"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Cherry"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Navy Blue"
+    }
+  ]
+}

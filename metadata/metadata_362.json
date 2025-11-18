@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #362 — a procedurally generated figure featuring the 152 model, the Ghost symbol, and a Pacific Green backdrop.",
+  "name": "DARK PRESIDENT #362",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/362.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/362.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "152"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Ghost"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Pacific Green"
+    }
+  ]
+}

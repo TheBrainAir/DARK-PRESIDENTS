@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #762 — a procedurally generated figure featuring the 38 model, the Tooth symbol, and a Steel Grey backdrop.",
+  "name": "DARK PRESIDENT #762",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/762.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/762.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "38"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Tooth"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Steel Grey"
+    }
+  ]
+}

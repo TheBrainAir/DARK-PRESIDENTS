@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #325 — a procedurally generated figure featuring the 48 model, the Plume symbol, and a Silver Blue backdrop.",
+  "name": "DARK PRESIDENT #325",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/325.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/325.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "48"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Plume"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Silver Blue"
+    }
+  ]
+}

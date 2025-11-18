@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #486 — a procedurally generated figure featuring the 91 model, the Heart Shades symbol, and a Mystic Pearl backdrop.",
+  "name": "DARK PRESIDENT #486",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/486.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/486.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "91"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Heart Shades"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Mystic Pearl"
+    }
+  ]
+}

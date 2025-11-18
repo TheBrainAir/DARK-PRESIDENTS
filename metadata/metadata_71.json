@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #71 — a procedurally generated figure featuring the 179 model, the Crusader symbol, and a Steel Grey backdrop.",
+  "name": "DARK PRESIDENT #71",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/71.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/71.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "179"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Crusader"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Steel Grey"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #709 — a procedurally generated figure featuring the 45 model, the Hermit Shell symbol, and a Platinum backdrop.",
+  "name": "DARK PRESIDENT #709",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/709.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/709.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "45"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Hermit Shell"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Platinum"
+    }
+  ]
+}

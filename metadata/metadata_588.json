@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #588 — a procedurally generated figure featuring the 3 model, the Mask symbol, and a Orange backdrop.",
+  "name": "DARK PRESIDENT #588",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/588.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/588.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "3"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Mask"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Orange"
+    }
+  ]
+}

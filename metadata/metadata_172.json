@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #172 — a procedurally generated figure featuring the 32 model, the Cursor symbol, and a Amber backdrop.",
+  "name": "DARK PRESIDENT #172",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/172.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/172.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "32"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Cursor"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Amber"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #81 — a procedurally generated figure featuring the 27 model, the Top Hat symbol, and a Silver Blue backdrop.",
+  "name": "DARK PRESIDENT #81",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/81.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/81.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "27"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Top Hat"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Silver Blue"
+    }
+  ]
+}

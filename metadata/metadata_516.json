@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #516 — a procedurally generated figure featuring the 34 model, the Avocado symbol, and a Pure Gold backdrop.",
+  "name": "DARK PRESIDENT #516",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/516.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/516.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "34"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Avocado"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Pure Gold"
+    }
+  ]
+}

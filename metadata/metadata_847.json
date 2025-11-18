@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #847 — a procedurally generated figure featuring the 30 model, the Sauron symbol, and a Desert Sand backdrop.",
+  "name": "DARK PRESIDENT #847",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/847.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/847.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "30"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Sauron"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Desert Sand"
+    }
+  ]
+}

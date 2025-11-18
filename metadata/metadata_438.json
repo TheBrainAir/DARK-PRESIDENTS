@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #438 — a procedurally generated figure featuring the 106 model, the Water Drops symbol, and a Lavender backdrop.",
+  "name": "DARK PRESIDENT #438",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/438.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/438.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "106"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Water Drops"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Lavender"
+    }
+  ]
+}

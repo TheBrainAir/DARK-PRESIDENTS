@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #544 — a procedurally generated figure featuring the 119 model, the Narcissus symbol, and a Pistachio backdrop.",
+  "name": "DARK PRESIDENT #544",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/544.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/544.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "119"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Narcissus"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Pistachio"
+    }
+  ]
+}

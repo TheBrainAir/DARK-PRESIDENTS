@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #880 — a procedurally generated figure featuring the 47 model, the Illuminati symbol, and a Khaki Green backdrop.",
+  "name": "DARK PRESIDENT #880",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/880.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/880.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "47"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Illuminati"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Khaki Green"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #598 — a procedurally generated figure featuring the 117 model, the Star Crown symbol, and a Jade Green backdrop.",
+  "name": "DARK PRESIDENT #598",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/598.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/598.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "117"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Star Crown"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Jade Green"
+    }
+  ]
+}

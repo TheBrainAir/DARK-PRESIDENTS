@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #439 — a procedurally generated figure featuring the 84 model, the Toy Bucket symbol, and a Sapphire backdrop.",
+  "name": "DARK PRESIDENT #439",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/439.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/439.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "84"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Toy Bucket"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Sapphire"
+    }
+  ]
+}

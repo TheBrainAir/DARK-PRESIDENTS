@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #129 — a procedurally generated figure featuring the 74 model, the Fenrir symbol, and a Rosewood backdrop.",
+  "name": "DARK PRESIDENT #129",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/129.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/129.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "74"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Fenrir"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Rosewood"
+    }
+  ]
+}

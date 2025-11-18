@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #366 — a procedurally generated figure featuring the 33 model, the Totem Bear symbol, and a Rosewood backdrop.",
+  "name": "DARK PRESIDENT #366",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/366.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/366.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "33"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Totem Bear"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Rosewood"
+    }
+  ]
+}

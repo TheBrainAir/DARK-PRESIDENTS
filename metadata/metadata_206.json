@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #206 — a procedurally generated figure featuring the 101 model, the Gift Box symbol, and a Black backdrop.",
+  "name": "DARK PRESIDENT #206",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/206.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/206.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "101"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Gift Box"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Black"
+    }
+  ]
+}

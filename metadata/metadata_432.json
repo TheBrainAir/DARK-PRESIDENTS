@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #432 — a procedurally generated figure featuring the 158 model, the Watermelon symbol, and a Cappuccino backdrop.",
+  "name": "DARK PRESIDENT #432",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/432.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/432.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "158"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Watermelon"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Cappuccino"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #490 — a procedurally generated figure featuring the 118 model, the Amour Scoops symbol, and a Navy Blue backdrop.",
+  "name": "DARK PRESIDENT #490",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/490.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/490.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "118"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Amour Scoops"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Navy Blue"
+    }
+  ]
+}

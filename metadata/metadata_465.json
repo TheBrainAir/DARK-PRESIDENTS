@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #465 — a procedurally generated figure featuring the 164 model, the Fenrir symbol, and a Ivory White backdrop.",
+  "name": "DARK PRESIDENT #465",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/465.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/465.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "164"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Fenrir"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Ivory White"
+    }
+  ]
+}

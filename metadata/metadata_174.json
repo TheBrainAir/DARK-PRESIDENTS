@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #174 — a procedurally generated figure featuring the 2 model, the Bastet symbol, and a Orange backdrop.",
+  "name": "DARK PRESIDENT #174",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/174.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/174.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "2"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Bastet"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Orange"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #221 — a procedurally generated figure featuring the 158 model, the Okami Wolf symbol, and a Coral Red backdrop.",
+  "name": "DARK PRESIDENT #221",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/221.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/221.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "158"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Okami Wolf"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Coral Red"
+    }
+  ]
+}

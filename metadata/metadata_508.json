@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #508 — a procedurally generated figure featuring the 102 model, the Dragonfly symbol, and a Emerald backdrop.",
+  "name": "DARK PRESIDENT #508",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/508.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/508.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "102"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Dragonfly"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Emerald"
+    }
+  ]
+}

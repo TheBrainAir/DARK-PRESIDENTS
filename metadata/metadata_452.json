@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #452 — a procedurally generated figure featuring the 189 model, the Lion King symbol, and a Strawberry backdrop.",
+  "name": "DARK PRESIDENT #452",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/452.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/452.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "189"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Lion King"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Strawberry"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #842 — a procedurally generated figure featuring the 210 model, the Star symbol, and a Navy Blue backdrop.",
+  "name": "DARK PRESIDENT #842",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/842.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/842.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "210"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Star"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Navy Blue"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #741 — a procedurally generated figure featuring the 34 model, the Yogi Shaman symbol, and a Neon Blue backdrop.",
+  "name": "DARK PRESIDENT #741",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/741.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/741.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "34"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Yogi Shaman"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Neon Blue"
+    }
+  ]
+}

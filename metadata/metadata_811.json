@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #811 — a procedurally generated figure featuring the 11 model, the Kitty Cat symbol, and a Roman Silver backdrop.",
+  "name": "DARK PRESIDENT #811",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/811.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/811.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "11"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Kitty Cat"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Roman Silver"
+    }
+  ]
+}

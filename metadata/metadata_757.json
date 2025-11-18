@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #757 — a procedurally generated figure featuring the 88 model, the Mountain Goat symbol, and a Cappuccino backdrop.",
+  "name": "DARK PRESIDENT #757",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/757.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/757.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "88"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Mountain Goat"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Cappuccino"
+    }
+  ]
+}

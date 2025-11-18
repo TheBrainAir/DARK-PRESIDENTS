@@ -1,20 +1,20 @@
 {
-  "description": "DARK PRESIDENT #46",
+  "description": "DARK PRESIDENT #46 — a procedurally generated figure featuring the 184 model, the Dolphin symbol, and a Cappuccino backdrop.",
   "name": "DARK PRESIDENT #46",
   "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/46.webp",
   "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/46.json",
   "attributes": [
     {
       "trait_type": "Model",
-      "value": "195"
+      "value": "184"
     },
     {
       "trait_type": "Symbol",
-      "value": "Chili Pepper"
+      "value": "Dolphin"
     },
     {
       "trait_type": "Backdrop",
-      "value": "Jade Green"
+      "value": "Cappuccino"
     }
   ]
 }

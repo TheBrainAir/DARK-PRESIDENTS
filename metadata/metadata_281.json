@@ -1,0 +1,20 @@
+{
+  "description": "DARK PRESIDENT #281 — a procedurally generated figure featuring the 58 model, the Candle symbol, and a Carrot Juice backdrop.",
+  "name": "DARK PRESIDENT #281",
+  "image": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/webp/281.webp",
+  "lottie": "https://raw.githubusercontent.com/TheBrainAir/DARK-PRESIDENTS/refs/heads/main/images/lottie/281.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "58"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Candle"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Carrot Juice"
+    }
+  ]
+}
